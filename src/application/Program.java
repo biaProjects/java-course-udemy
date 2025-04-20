@@ -39,5 +39,7 @@ public class Program {
 		}		
 
 		sc.close();
+		
+		System.out.println("Hello world, this is a line for github!");
 	}
 }
