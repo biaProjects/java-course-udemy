@@ -1,0 +1,34 @@
+Para iniciar um repositório git
+
+git init
+
+
+Depois disso, precisamos criar um repositório no git hub
+
+
+depois que foi criado o repositório, no gitbash de o comando
+
+git remote add origin <endereço do seu repositorio>
+
+Para verificar se o repositório está conectado digite
+
+git remote -v
+
+
+para subir conteúdo para o GitHub
+
+depois que terminar de codar, digite:
+
+git status
+
+este comando vai listar as alterações feitas no seu repositório.
+
+para adicionar estes arquivos para enviar ao git digite:
+
+git add .
+
+depois digite git commit -m "texto do seu commit com aspas duplas"
+
+depois finalmente digite:
+
+git push -u origin master
