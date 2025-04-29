@@ -1,0 +1,38 @@
+import java.util.Locale;
+import java.util.Scanner;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		Locale.setDefault(Locale.US);
+		Scanner sc = new Scanner(System.in);
+		
+		System.out.println("Enter the measure of triangle X:");
+		double ladoAX = sc.nextDouble();
+		double ladoBX = sc.nextDouble();
+		double ladoCX = sc.nextDouble();
+		
+		System.out.println("Enter the measure of triangle Y:");
+		double ladoAY = sc.nextDouble();
+		double ladoBY = sc.nextDouble();
+		double ladoCY = sc.nextDouble();
+		
+		double pX = (ladoAX + ladoBX + ladoCX) / 2;
+		double meioCaminhoX = pX * (pX - ladoAX) * (pX - ladoBX) * (pX - ladoCX);
+		double areaX = Math.sqrt(meioCaminhoX);
+		
+		double pY = (ladoAY + ladoBY + ladoCY) / 2;
+		double meioCaminhoY = pY * (pY - ladoAY) * (pY - ladoBY) * (pY - ladoCY);
+		double areaY = Math.sqrt(meioCaminhoY);
+		
+		System.out.printf("Triangle X area: %.4f %n", areaX);
+		System.out.printf("Triangle Y area: %.4f %n", areaY);		
+		
+		if (areaX > areaY) {
+			System.out.println("Larger area: X");
+		} else {
+			System.out.println("Larger area: Y");
+		}
+	}
+}

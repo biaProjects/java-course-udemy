@@ -1,0 +1,21 @@
+public class Main {
+
+	public static void main(String[] args) {
+		
+		String original = "abcde FGHIJ ABC abc DEFG     ";
+		
+		String formatadaLower = original.toLowerCase();
+		String formatadaUpper = original.toUpperCase();
+		String formatada0espaço = original.trim();
+		
+		System.out.printf("%s %n%s %n%s %n");
+		
+		
+//		| formatar   | toLowerCase()  = maísculo  \|   toUpperCase() = minúsculo  \|  trim() = remover espaços |
+	//	| recortar   | substring(inicio)  \|  substring(inicio, fim)                                           |
+		//| substituir | Replace(char, char)  \|  Replace(string, string)                                        |
+		//| buscar     | IndexOf  \|  LastIndexOf                                                                |
+		//|            | str.Split(" ")                                                                          |
+
+	}
+}

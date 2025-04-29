@@ -1,0 +1,32 @@
+import java.util.Scanner;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		Scanner sc = new Scanner(System.in);
+		
+		System.out.println("Quantos nomes você quer cadastrar?");
+		int quantidadeUsuarios = sc.nextInt();
+		
+		System.out.println("Digite os nomes separados por vírgula:");
+		String usuarios = sc.nextLine();
+		
+		String[] vect = usuarios.split(",");
+		
+		for (int i=0; i<quantidadeUsuarios; i++) {
+			System.out.print("Nome: " + vect[i] + " | ");
+			int tamanho = vect[i].length();
+			System.out.print("Caracteres: " + tamanho + " | ");
+			
+			if (tamanho <= 5) {
+				System.out.print("Nome curto");
+			}
+			else {
+				System.out.print("Nome longo");
+			}
+		}
+				
+		sc.close();	
+	}
+}

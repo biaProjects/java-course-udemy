@@ -1,0 +1,32 @@
+public class Main {
+
+	public static void main(String[] args) {
+		
+		String original = "abcde FGHIJ ABC abc DEFG     ";
+		
+		String formatadaLower = original.toLowerCase();
+		String formatadaUpper = original.toUpperCase();
+		String formatada0espaço = original.trim();
+		
+		System.out.printf("lower: '%s' %nUpper: '%s' %nSem espaço: '%s' %n", formatadaLower, formatadaUpper, formatada0espaço);
+		
+		String recortada = original.substring(6);
+		String recortada1 = original.substring(6, 11);
+		
+		System.out.printf("%nRecortada apenas com inicio: '%s' %nrecortada com inicio e fim: '%s'%n", recortada, recortada1);
+
+		String mudada = original.replace('a', 'z');
+		String mudada1 = original.replace("abc", "xyz");
+		
+		System.out.printf("%n mudanças: %n '%s' %n'%s' %n", mudada, mudada1);
+		
+		int busca = original.indexOf("bc");
+		int busca1 = original.lastIndexOf("bc");
+		
+		System.out.printf("%nbusca index: '%d' %nbusca lastIndex: '%d' %n", busca, busca1);
+		
+		//| buscar     | IndexOf  \|  LastIndexOf                                                                |
+		//|            | str.Split(" ")                                                                          |
+
+	}
+}
