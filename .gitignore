@@ -53,3 +53,4 @@ jacoco.exec
 # Others
 .DS_Store
 Thumbs.db
+/.metadata/
