@@ -11,12 +11,12 @@ public class Main {
 		
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
-		
-		Student student = new Student();
-		
+				
 		System.out.print("Enter student's name: ");
-		student.name = sc.nextLine();
+		String name = sc.nextLine();
 		
+		Student student = new Student(name);
+				
 		/*for (int i = 0; i < student.grades.length;i++) {
 			System.out.print("Enter the grade #N" + (i + 1) + ": ");
 			student.grades[i] = sc.nextDouble();
@@ -32,7 +32,7 @@ public class Main {
 		}
 		
 		System.out.printf("FINAL GRADE = %.2f%n", student.finalGrade());
-		student.passOrFail(60);
+		student.passOrFail();
 		
 		sc.close();
 

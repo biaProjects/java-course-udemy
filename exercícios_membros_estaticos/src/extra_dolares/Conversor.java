@@ -1,4 +1,4 @@
-package fixacao_dolares;
+package extra_dolares;
 
 public class Conversor {
 	

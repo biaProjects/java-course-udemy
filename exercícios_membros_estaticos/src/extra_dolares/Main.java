@@ -1,4 +1,4 @@
-package fixacao_dolares;
+package extra_dolares;
 
 import java.util.Locale;
 import java.util.Scanner;
