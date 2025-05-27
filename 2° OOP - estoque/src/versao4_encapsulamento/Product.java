@@ -1,4 +1,4 @@
-package versao4;
+package versao4_encapsulamento;
 
 public class Product {
 

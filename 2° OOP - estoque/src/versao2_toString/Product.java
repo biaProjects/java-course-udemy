@@ -1,4 +1,4 @@
-package versao3;
+package versao2_toString;
 
 public class Product {
 	
@@ -6,21 +6,6 @@ public class Product {
 	public double price;
 	public int quantity;
 
-
-	public Product(String name, double price, int quantity) {
-		this.name = name;
-		this.price = price;
-		this.quantity = quantity;
-		
-	}
-	
-	// terceira versão incluiu esse método:
-	public Product(String name, double price) {
-		this.name = name;
-		this.price = price;
-		// quantity = 0; -> opcional já que, em Java, int inicia em 0 -- this também é opcional por ñ ter ambiguidade
-	}
-	
 	
 	public double totalValueStock() {
 		return quantity * price;
@@ -37,9 +22,10 @@ public class Product {
 	}
 	
 	
+	// segunda versão:
 	public String toString() {
-		return name 
-				+ ", $ " 
+		return name + 
+				", $ " 
 				+ String.format("%.2f", price)
 				+ ", "
 				+ quantity

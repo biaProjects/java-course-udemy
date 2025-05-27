@@ -1,4 +1,4 @@
-package versao4;
+package versao4_encapsulamento;
 
 import java.util.Scanner;
 import java.util.Locale;

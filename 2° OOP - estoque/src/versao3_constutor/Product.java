@@ -1,10 +1,11 @@
-package versao2;
+package versao3_constutor;
 
 public class Product {
 	
 	public String name;
 	public double price;
 	public int quantity;
+
 
 	/* vamos incluir um construtor para que name, price e quantity seja "obrigatorio" na declaração
 	geralmente, os construtores são incluidos em baixo dos atributos
@@ -21,6 +22,14 @@ public class Product {
 		
 	}
 	
+	// terceira versão incluiu esse método:
+	public Product(String name, double price) {
+		this.name = name;
+		this.price = price;
+		// quantity = 0; -> opcional já que, em Java, int inicia em 0 -- this também é opcional por ñ ter ambiguidade
+	}
+	
+	
 	public double totalValueStock() {
 		return quantity * price;
 	}
@@ -36,10 +45,9 @@ public class Product {
 	}
 	
 	
-	// segunda versão:
 	public String toString() {
-		return name + 
-				", $ " 
+		return name 
+				+ ", $ " 
 				+ String.format("%.2f", price)
 				+ ", "
 				+ quantity
