@@ -3,7 +3,7 @@ package application;
 import java.util.Locale;
 import java.util.Scanner;
 
-import entities.Conta;
+import entities.Account;
 
 public class Main {
 
@@ -13,39 +13,44 @@ public class Main {
 		Scanner sc = new Scanner(System.in);
 		
 		System.out.print("Enter account number: ");
-		int numero = sc.nextInt();
-		sc.nextLine();
+		int number = sc.nextInt();
 		
 		System.out.print("Enter accounter holder: ");
-		String nome = sc.nextLine();
+		sc.nextLine();
+		String name = sc.nextLine();
 				
 		System.out.print("Is there a initial deposit (y/n)? ");
-		String resposta = sc.nextLine();
+		char answer = sc.next().charAt(0);
 				
-		Conta conta = new Conta(numero, nome);
-		if ( resposta.equalsIgnoreCase("y") ) {
+		Account account = new Account(number, name);
+		
+		/* if you define "answer" as String, it'll be necessary to use "answer.equalsIgnoreCase("y")" in the if...
+		 * but... if you define "answer" as char... you can use answer == 'y' (just don't forget that it can't be "y")
+		 */
+		
+		if ( answer == 'y' || answer == 'Y' ) {
 			System.out.print("Enter initial deposit value: ");
 			double saldoInicial = sc.nextDouble();
-			conta = new Conta(numero, nome, saldoInicial);
+			account = new Account(number, name, saldoInicial);
 		}
 		
 		System.out.println();
 		
 		System.out.println("Account data: ");
-		System.out.printf("%s %n%n", conta);
+		System.out.printf("%s %n%n", account);
 		
 		System.out.print("Enter a deposit value: ");
-		double deposito = sc.nextDouble();
-		conta.depositar(deposito);
+		double amountDeposit = sc.nextDouble();
+		account.deposit(amountDeposit);
 		System.out.println("Updated account data: ");
-		System.out.printf("%s %n%n", conta);
+		System.out.printf("%s %n%n", account);
 
 		
 		System.out.print("Enter a withdraw value: ");
-		double saque = sc.nextDouble();
-		conta.sacar(saque);
+		double amountWithdraw = sc.nextDouble();
+		account.withdraw(amountWithdraw);
 		System.out.println("Updated account data: ");
-		System.out.printf("%s %n%n", conta);
+		System.out.printf("%s %n%n", account);
 		
 		sc.close();
 	}
