@@ -1,4 +1,4 @@
-package terceira_resolucao;
+package terceira_resolucao_static;
 
 import java.util.Locale;
 import java.util.Scanner;

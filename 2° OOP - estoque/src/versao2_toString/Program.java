@@ -10,7 +10,6 @@ public class Program {
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
 		
-		// creating new product
 		Product product = new Product();
 		System.out.println("Enter product data:");
 		
@@ -25,11 +24,9 @@ public class Program {
 		
 		System.out.println();
 		
-		// showing product
 		System.out.println("Product data: " + product);
 		System.out.println();
 		
-		// adding products
 		System.out.print("Enter the number of products to be added in stock: ");
 		int toAdd = sc.nextInt();
 		product.addProducts(toAdd);
@@ -37,7 +34,6 @@ public class Program {
 		
 		System.out.println("Updated data:" + product);
 		
-		// removing products
 		System.out.print("Enter the number of products to be removed from stock: ");
 		int toRemove = sc.nextInt();
 		product.removeProducts(toRemove);

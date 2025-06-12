@@ -7,7 +7,7 @@ public class Program {
 
 	public static void main(String[] args) {
 		
-		Locale.setDefault(Locale.US);		
+		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
 		
 		Product product = new Product();
@@ -25,25 +25,34 @@ public class Program {
 		
 		System.out.println();
 		
-		System.out.println("Product data: " + product);
+		System.out.printf("Product data: %s, ", product.name);
+		System.out.printf("$ %.2f, ", product.price);
+		System.out.printf("%d units, ", product.quantity);
+		System.out.printf("Total: %.2f %n", product.totalValueStock());
 		System.out.println();
-
+		
 		// adding products
 		System.out.print("Enter the number of products to be added in stock: ");
 		int toAdd = sc.nextInt();
 		product.addProducts(toAdd);
 		System.out.println();
 		
-		System.out.println("Updated data:" + product);
+		System.out.printf("Updated data: %s, ", product.name);
+		System.out.printf("$ %.2f, ", product.price);
+		System.out.printf("%d units, ", product.quantity);
+		System.out.printf("Total: %.2f %n", product.totalValueStock());
 		System.out.println();
-
+		
 		// removing products
 		System.out.print("Enter the number of products to be removed from stock: ");
 		int toRemove = sc.nextInt();
 		product.removeProducts(toRemove);
 		System.out.println();
 		
-		System.out.println("Updated data:" + product);
+		System.out.printf("Updated data: %s, ", product.name);
+		System.out.printf("$ %.2f, ", product.price);
+		System.out.printf("%d units, ", product.quantity);
+		System.out.printf("Total: %.2f", product.totalValueStock());
 		
 		sc.close();
 	}

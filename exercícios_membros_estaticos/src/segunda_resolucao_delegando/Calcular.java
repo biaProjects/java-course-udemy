@@ -1,4 +1,4 @@
-package segunda_resolucao;
+package segunda_resolucao_delegando;
 
 public class Calcular {
 	

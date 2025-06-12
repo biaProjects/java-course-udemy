@@ -30,8 +30,8 @@ public class Main {
 		
 		if ( answer == 'y' || answer == 'Y' ) {
 			System.out.print("Enter initial deposit value: ");
-			double saldoInicial = sc.nextDouble();
-			account = new Account(number, name, saldoInicial);
+			double initialDeposit = sc.nextDouble();
+			account = new Account(number, name, initialDeposit);
 		}
 		
 		System.out.println();

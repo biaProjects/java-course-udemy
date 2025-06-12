@@ -23,7 +23,7 @@ public class Student {
 	}
 	
 	
-	// métodos
+	// metodos
 	public double finalGrade() {
 		double sumGrades = 0.0;
 		

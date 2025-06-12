@@ -9,14 +9,14 @@ public class Account {
 	private double balance;
 	
 	
-	public Account(int numberAccount, String holdersName, double initialDeposit) {
-		this.number = numberAccount;
+	public Account(int number, String holdersName, double initialDeposit) {
+		this.number = number;
 		this.holdersName = holdersName;
 		deposit(initialDeposit);
 	}
 	
-	public Account(int numeroConta, String holdersName) {
-		this.number = numeroConta;
+	public Account(int number, String holdersName) {
+		this.number = number;
 		this.holdersName = holdersName;
 	}
 	
@@ -29,8 +29,8 @@ public class Account {
 		return holdersName;
 	}
 	
-	public void setHoldersName(String nome) {
-		nome = holdersName;
+	public void setHoldersName(String name) {
+		name = holdersName;
 	}
 	
 	public double getBalance() {
