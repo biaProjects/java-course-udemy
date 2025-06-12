@@ -48,11 +48,11 @@ O objetivo deste repositório é documentar o progresso durante o curso e servir
 
 #### Estrutura do Repositório
 
-- `1° OOP - triangulo`
+- `1° OOP - triangulo`  
   Primeiro contato com os conceitos de Orientação a Objetos em Java.  
   Um programa simples que calcula a área de dois triângulos com base nos seus lados, utilizando classes e instâncias.
 
-- `2° OOP - estoque`
+- `2° OOP - estoque`  
   Projeto com cinco versões, cada uma acrescentando novos conceitos:
   - Versão 1: Estrutura inicial com classe `Product` e operações básicas.
   - Versão 2: Inclusão do método `toString()` para informações do produto.
@@ -60,18 +60,18 @@ O objetivo deste repositório é documentar o progresso durante o curso e servir
   - Versão 4: Sobrecarga, permitindo tanto o construtor padrão quanto o personalizado.  
   - Versão 5: Inclusão de encapsulamento, com uso de métodos `get` e `set`.  
 
-- `aluno_aprovado`
+- `aluno_aprovado`  
   Programa simples para cálculo da média de um aluno com base em três notas e verificação de aprovação.
 
-- `bankAccount` _(conta bancária)_
+- `bankAccount` _(conta bancária)_  
   Simulação básica de uma conta bancária, demonstrando encapsulamento, uso de `this` e boas práticas com construtores.
 
-- `exercicios_membros_estaticos`
+- `exercicios_membros_estaticos`  
   Possui 2 subprojetos:
-  - Projeto 1:
+  - Projeto 1:  
     Conversor de moedas: Projeto extra com uma classe que converte valores em dólar para real.
     
-  - Projeto 2:
+  - Projeto 2:  
     Cálculo de circunferência e volume.
     - Versão 1 – todos os métodos estão na mesma classe principal.
     - Versão 2 – com delegação: Criação de uma classe separada com os métodos, aplicando o princípio da delegação.
