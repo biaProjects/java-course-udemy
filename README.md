@@ -10,7 +10,7 @@ The purpose of this repository is to document my progress during the course and 
 
 #### Repository Structure
 
-- `1° OOP - triangulo` _(1st OOP - triangle)_  
+- `1° OOP - triangulo` _(1st OOP - triangle)_ 
         First contact with Object-Oriented Programming concepts in Java.  
         A simple program that calculates the area of two triangles based on their sides, using classes and instances.
 
@@ -38,6 +38,13 @@ The purpose of this repository is to document my progress during the course and 
     - Version 1 – All methods are in the same main class.
     - Version 2 – with delegation: Creation of a separate class with the methods, applying the delegation principle.
     - Version 3 – with `static`: Same methods, now using static members.
+
+- `vetores` _(vectors)_  
+        Contains 2 exercises:
+  - exercicio_1 _(exercise_1)_:  
+    Calculates the average height of *X* users.
+  - exercicio_2 _(exercise_2)_:  
+    Reads the name and price of X products and calculates the average price.
 
 ---
 
@@ -76,3 +83,10 @@ O objetivo deste repositório é documentar o progresso durante o curso e servir
     - Versão 1 – todos os métodos estão na mesma classe principal.
     - Versão 2 – com delegação: Criação de uma classe separada com os métodos, aplicando o princípio da delegação.
     - Versão 3 – com `static`: Mesmos métodos, agora utilizando membros estáticos.
+
+- `vetores`  
+  Possui 2 exercícios:
+  - exercício_1:  
+    Calcula a média de altura de *X* usuários.  
+  - exercício_2:  
+    Lê o nome e preço de X produtos e calcula a média de preços.  
