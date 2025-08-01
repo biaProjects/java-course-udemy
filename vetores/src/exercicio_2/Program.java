@@ -6,30 +6,56 @@ import java.util.Scanner;
 public class Program {
 
 	public static void main(String[] args) {
-		
+
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
+				
+		System.out.print("Quantas pessoas serão digitadas? ");
+		int quantidade = sc.nextInt();
 		
-		int quantity = sc.nextInt();
+		Pessoa pessoas[] = new Pessoa[quantidade];
 		
-		Product[] product_vect = new Product[quantity];
-		
-		for (int i = 0; i< quantity; i++) {
-			sc.nextLine();
-			String name = sc.nextLine();
-			double price = sc.nextDouble();
+		for (int i = 0; i < quantidade; i++) {
+			System.out.printf("Dados da %da pessoa: %n", i+1);
 			
-			product_vect[i] = new Product(name, price);
+			sc.nextLine();
+			System.out.print("Nome: ");
+			String nome = sc.nextLine();
+			System.out.print("Idade: ");
+			int idade = sc.nextInt();
+			System.out.print("Altura: ");
+			double altura = sc.nextDouble();
+			
+			Pessoa pessoa = new Pessoa(nome, idade, altura);
+			pessoas[i] = pessoa;
 		}
 		
-		double sum = 0.0;
-		for (int i = 0; i < quantity; i++) {
-			sum += product_vect[i].get_price();
+		double somaAlturas = 0.0;
+		double menor16 = 0;
+		for (int i = 0; i < pessoas.length; i++) {
+			somaAlturas += pessoas[i].getAltura();
+			
+			if ( pessoas[i].getIdade() < 16 ) {
+				menor16 += 1;
+			}
 		}
 		
-		double average = sum / quantity;
+		double mediaAltura = somaAlturas / pessoas.length;
+		menor16 = menor16 / pessoas.length * 100;
 		
-		System.out.printf("Average price = %.2f", average);
+		System.out.println();
+		System.out.printf("Altura média %.2f %n", mediaAltura);
+		
+		System.out.print("Pessoas com menos de 16 anos = ");
+		System.out.printf("%.1f", menor16);
+		System.out.println("%");
+		System.out.println("Elas são:");
+		
+		for (int i = 0; i < pessoas.length; i++) {
+			if ( pessoas[i].getIdade() < 16 ) {
+				System.out.println(pessoas[i].getNome());
+			}
+		}
 		
 		sc.close();
 	}

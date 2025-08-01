@@ -4,7 +4,7 @@ import java.util.Locale;
 import java.util.Scanner;
 
 public class Program {
-	
+
 	public static void main(String[] args) {
 		
 		Locale.setDefault(Locale.US);
@@ -13,21 +13,26 @@ public class Program {
 		int quantity = sc.nextInt();
 		
 		// type_vect'll_have[] name_variable = new type'll_have[length]
-		double[] height_vect = new double[quantity];
+		Product[] product_vect = new Product[quantity];
 		
-		for (int i = 0; i < quantity; i++) {
-			height_vect[i] = sc.nextDouble();
+		for (int i = 0; i< product_vect.length; i++) {
+			sc.nextLine();
+			String name = sc.nextLine();
+			double price = sc.nextDouble();
+			
+			product_vect[i] = new Product(name, price);
 		}
 		
 		double sum = 0.0;
-		for (int i = 0; i < quantity; i+=1) {
-			sum += height_vect[i];
+		for (int i = 0; i < product_vect.length; i++) {
+			sum += product_vect[i].get_price();
 		}
 		
 		double average = sum / quantity;
 		
-		System.out.printf("Average height = %.2f%n", average);
+		System.out.printf("Average price = %.2f", average);
 		
 		sc.close();
-	}	
+	}
+
 }

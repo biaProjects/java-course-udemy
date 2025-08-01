@@ -1,4 +1,4 @@
-package exercicio_2;
+package exercicio_1;
 
 public class Product {
 
