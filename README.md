@@ -45,11 +45,14 @@ The purpose of this repository is to document my progress during the course and 
   - exercicio_1 _(exercise_1)_:  
     Reads the name and price of X products and calculates the average price.
   - exercicio_2 _(exercise_2)_:  
-    Reads the name, age and height of X people and reports the average height, the percentage of people under 16 years old and their names.
+    Reads the name, age and height of X people and diaplays the average height, the percentage of people under 16 years old and their names.
   - exercicio_3 _(exercise_3)_:  
     Reads X numbers and returns the largest one and its corresponding position.
   - exercisio_4 _(exercise_4)_:  
     Receives the values of 2 vectors (A and B) and, based on them, calculates the resulting vector.
+  - exercicio_5 _(exercise_5)_:  
+    Simulation where a hotel has 10 rooms (from 0 to 9) and they will be rented to X people.  
+    The program will read the name, email and the room the person will rent and in the end, it will display the rooms that are occupied.
 
 
 ---
@@ -101,3 +104,6 @@ O objetivo deste repositório é documentar o progresso durante o curso e servir
     Lê X números e retorna o maior deles e sua respectiva posição.
   - exercicio_4:  
     Recebe os valores de 2 vetores (A e B) e, a partir deles, cálcula o vetor resultante.
+  - exercicio_5:  
+    Simulação onde um hotel tem 10 quartos (de 0 a 9) e serão alugados para X pessoas.  
+    O programa lerá o nome, email e quarto que a pessoa irá alugar e no final, informará os quartos que estão ocupados.
