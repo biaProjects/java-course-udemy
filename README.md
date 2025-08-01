@@ -1,3 +1,4 @@
+
 Available in English and Portuguese.  
 Disponível em inglês e português.
 
@@ -40,13 +41,19 @@ The purpose of this repository is to document my progress during the course and 
     - Version 3 – with `static`: Same methods, now using static members.
 
 - `vetores` _(vectors)_  
-        Contains 2 exercises:
+  Contains 2 exercises:
   - exercicio_1 _(exercise_1)_:  
-    Calculates the average height of *X* users.
-  - exercicio_2 _(exercise_2)_:  
     Reads the name and price of X products and calculates the average price.
+  - exercicio_2 _(exercise_2)_:  
+    Reads the name, age and height of X people and reports the average height, the percentage of people under 16 years old and their names.
+  - exercicio_3 _(exercise_3)_:  
+    Reads X numbers and returns the largest one and its corresponding position.
+  - exercisio_4 _(exercise_4)_:  
+    Receives the values of 2 vectors (A and B) and, based on them, calculates the resulting vector.
+
 
 ---
+
 
 ### Português:
 
@@ -86,7 +93,11 @@ O objetivo deste repositório é documentar o progresso durante o curso e servir
 
 - `vetores`  
   Possui 2 exercícios:
-  - exercício_1:  
-    Calcula a média de altura de *X* usuários.  
-  - exercício_2:  
-    Lê o nome e preço de X produtos e calcula a média de preços.  
+  - exercicio_1:  
+    Lê o nome e preço de X produtos e calcula a média de preços.
+  - exercicio_2:  
+    Lê o nome, a idade e a altura de X pessoas e informa a altura média, porcentagem de menores de 16 anos e quais são seus nomes.
+  - exercicio_3:  
+    Lê X números e retorna o maior deles e sua respectiva posição.
+  - exercicio_4:  
+    Recebe os valores de 2 vetores (A e B) e, a partir deles, cálcula o vetor resultante.
