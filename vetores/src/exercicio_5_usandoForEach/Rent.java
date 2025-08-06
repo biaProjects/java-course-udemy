@@ -1,4 +1,4 @@
-package exercicio_5;
+package exercicio_5_usandoForEach;
 
 public class Rent {
 	

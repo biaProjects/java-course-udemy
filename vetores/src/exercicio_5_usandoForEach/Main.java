@@ -1,4 +1,4 @@
-package exercicio_5;
+package exercicio_5_usandoForEach;
 
 import java.util.Scanner;
 
@@ -37,9 +37,14 @@ public class Main {
 		}
 				
 		System.out.println("Busy rooms: ");
-		for (int i = 0; i < rooms.length; i += 1) {
-			if ( rooms[i] != null ) {
+		/* for (int i = 0; i < rooms.length; i += 1) {
+		 	if ( rooms[i] != null ) {
 				System.out.println(rooms[i]);
+			}
+		*/
+		for (Rent rent : rooms) {
+			if (rent != null) {
+				System.out.println(rent);
 			}
 		}
 		
