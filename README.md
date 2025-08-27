@@ -23,13 +23,10 @@ The purpose of this repository is to document my progress during the course and 
   - Version 4: Overloading, allowing both default and custom constructors.
   - Version 5: Inclusion of encapsulation using `get` and `set` methods.
 
-- `aluno_aprovado` _(student_approved)_  
+- `exercicio1_aluno_aprovado` _(student_approved)_  
         Simple program to calculate a student's average grade based on three scores and verify if the student is approved.
 
-- `bankAccount`  
-        Basic simulation of a bank account, demonstrating encapsulation, use of `this`, and good constructor practices.
-
-- `exercicios_membros_estaticos` _(static_members_exercises)_  
+- `exercicio2_membros_estaticos` _(static_members)_  
         Contains 2 subprojects:
   - Project 1:  
     Currency converter: Extra project with a class that converts values from dollars to reais.
@@ -40,7 +37,10 @@ The purpose of this repository is to document my progress during the course and 
     - Version 2 – with delegation: Creation of a separate class with the methods, applying the delegation principle.
     - Version 3 – with `static`: Same methods, now using static members.
 
-- `vetores` _(vectors)_  
+- `exercicio3_bankAccount`  
+        Basic simulation of a bank account, demonstrating encapsulation, use of `this`, and good constructor practices.
+
+- `exercicio4_vetores` _(vectors)_  
   Contains 2 exercises:
   - exercicio_1 _(exercise_1)_:  
     Reads the name and price of X products and calculates the average price.
@@ -77,13 +77,10 @@ O objetivo deste repositório é documentar o progresso durante o curso e servir
   - Versão 4: Sobrecarga, permitindo tanto o construtor padrão quanto o personalizado.  
   - Versão 5: Inclusão de encapsulamento, com uso de métodos `get` e `set`.  
 
-- `aluno_aprovado`  
+- `exercicio1_aluno_aprovado`  
   Programa simples para cálculo da média de um aluno com base em três notas e verificação de aprovação.
 
-- `bankAccount` _(conta bancária)_  
-  Simulação básica de uma conta bancária, demonstrando encapsulamento, uso de `this` e boas práticas com construtores.
-
-- `exercicios_membros_estaticos`  
+- `exercicio2_membros_estaticos`  
   Possui 2 subprojetos:
   - Projeto 1:  
     Conversor de moedas: Projeto extra com uma classe que converte valores em dólar para real.
@@ -94,7 +91,10 @@ O objetivo deste repositório é documentar o progresso durante o curso e servir
     - Versão 2 – com delegação: Criação de uma classe separada com os métodos, aplicando o princípio da delegação.
     - Versão 3 – com `static`: Mesmos métodos, agora utilizando membros estáticos.
 
-- `vetores`  
+- `exercicio3_bankAccount` _(conta bancária)_  
+  Simulação básica de uma conta bancária, demonstrando encapsulamento, uso de `this` e boas práticas com construtores.
+
+- `exercicio4_vetores`  
   Possui 2 exercícios:
   - exercicio_1:  
     Lê o nome e preço de X produtos e calcula a média de preços.
