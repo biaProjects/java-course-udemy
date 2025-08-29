@@ -10,50 +10,50 @@ public class Program {
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
 				
-		System.out.print("Quantas pessoas serão digitadas? ");
-		int quantidade = sc.nextInt();
+		System.out.print("How many people's information will be entered? ");
+		int quantity = sc.nextInt();
 		
-		Pessoa pessoas[] = new Pessoa[quantidade];
+		Person people[] = new Person[quantity];
 		
-		for (int i = 0; i < quantidade; i++) {
-			System.out.printf("Dados da %da pessoa: %n", i+1);
+		for (int i = 0; i < quantity; i++) {
+			System.out.printf("Data of the person %d: %n", i+1);
 			
 			sc.nextLine();
-			System.out.print("Nome: ");
-			String nome = sc.nextLine();
-			System.out.print("Idade: ");
-			int idade = sc.nextInt();
-			System.out.print("Altura: ");
-			double altura = sc.nextDouble();
+			System.out.print("Name: ");
+			String name = sc.nextLine();
+			System.out.print("Age: ");
+			int age = sc.nextInt();
+			System.out.print("Height: ");
+			double height = sc.nextDouble();
 			
-			Pessoa pessoa = new Pessoa(nome, idade, altura);
-			pessoas[i] = pessoa;
+			Person person = new Person(name, age, height);
+			people[i] = person;
 		}
 		
-		double somaAlturas = 0.0;
-		double menor16 = 0;
-		for (int i = 0; i < pessoas.length; i++) {
-			somaAlturas += pessoas[i].getAltura();
+		double sumHeight = 0.0;
+		double youngerThan16 = 0;
+		for (int i = 0; i < people.length; i++) {
+			sumHeight += people[i].getHeight();
 			
-			if ( pessoas[i].getIdade() < 16 ) {
-				menor16 += 1;
+			if ( people[i].getAge() < 16 ) {
+				youngerThan16 += 1;
 			}
 		}
 		
-		double mediaAltura = somaAlturas / pessoas.length;
-		menor16 = menor16 / pessoas.length * 100;
+		double averageHeight = sumHeight / people.length;
+		youngerThan16 = youngerThan16 / people.length * 100;
 		
 		System.out.println();
-		System.out.printf("Altura média %.2f %n", mediaAltura);
+		System.out.printf("Average heght %.2f %n", averageHeight);
 		
-		System.out.print("Pessoas com menos de 16 anos = ");
-		System.out.printf("%.1f", menor16);
+		System.out.print("People younger than 16 years = ");
+		System.out.printf("%.1f", youngerThan16);
 		System.out.println("%");
-		System.out.println("Elas são:");
+		System.out.println("They are:");
 		
-		for (int i = 0; i < pessoas.length; i++) {
-			if ( pessoas[i].getIdade() < 16 ) {
-				System.out.println(pessoas[i].getNome());
+		for (int i = 0; i < people.length; i++) {
+			if ( people[i].getAge() < 16 ) {
+				System.out.println(people[i].getName());
 			}
 		}
 		
