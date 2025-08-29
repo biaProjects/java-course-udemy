@@ -11,11 +11,11 @@ The purpose of this repository is to document my progress during the course and 
 
 #### Repository Structure
 
-- `1° OOP - triangulo` _(1st OOP - triangle)_ 
+- `1° OOP - triangle`  
         First contact with Object-Oriented Programming concepts in Java.  
         A simple program that calculates the area of two triangles based on their sides, using classes and instances.
 
-- `2° OOP - estoque` _(2nd OOP - stock)_  
+- `2° OOP - stock`  
   Project with five versions, each one adding new concepts:
   - Version 1: Initial structure with a `Product` class and basic operations.
   - Version 2: Inclusion of the `toString()` method for product information.
@@ -65,11 +65,11 @@ O objetivo deste repositório é documentar o progresso durante o curso e servir
 
 #### Estrutura do Repositório
 
-- `1° OOP - triangulo`  
+- `1° OOP - triangle`  _(triângulo)_  
   Primeiro contato com os conceitos de Orientação a Objetos em Java.  
   Um programa simples que calcula a área de dois triângulos com base nos seus lados, utilizando classes e instâncias.
 
-- `2° OOP - estoque`  
+- `2° OOP - stock`  _(estoque)_  
   Projeto com cinco versões, cada uma acrescentando novos conceitos:
   - Versão 1: Estrutura inicial com classe `Product` e operações básicas.
   - Versão 2: Inclusão do método `toString()` para informações do produto.

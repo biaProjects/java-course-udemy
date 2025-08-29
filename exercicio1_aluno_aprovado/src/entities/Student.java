@@ -7,7 +7,7 @@ public class Student {
 	
 	private final double MINIMUN = 6;
 	
-	// construtor
+	// constructor
 	public Student(String name) {
 		this.name = name;
 	}
