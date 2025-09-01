@@ -1,5 +1,4 @@
-(Conteúdo disponível na aula 34 )
-# E???
+(Conteúdo disponível na aula 34 e 35)
 
 ### Quais são as expressões lógicas em Java?
 - AND (E) => &&  
