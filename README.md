@@ -4,16 +4,44 @@ Disponível em inglês e português.
 
 ---
 
-### ENGLISH:
+## ENGLISH:
 
-This repository contains some of the exercises developed throughout the Java course taught by Nélio Alves on Udemy. Each folder represents a learning stage and will continue to be updated as the course progresses and as I keep learning.  
-The purpose of this repository is to document my progress during the course and serve as review and reference material for the future.
+This repository contains exercises, explanations, notes developed based on the [Complete Java Course - Object-Oriented Programming + Projects](https://www.udemy.com/course/java-curso-completo/?srsltid=AfmBOor14nRT5sp1sHdTBJcIekjZcpPGDS4cR6vX7PaktXu8lt0-m--) taught by Nelio Alves on Udemy.
 
-#### Repository Structure
+Each folder represents a learning stage and will continue to be updated as the course progresses and as I keep learning.  
+
+The purpose of this repository is to acquire and document my progress during the course, practice Git and GitHub and serve as review and reference material for the future.
+
+
+### Repository Structure
+
+- `1 - Programming Logic`  
+  This file contains the first part of the course. Here there are some notes, exercises and examples of basic Programming logic and algorthm in Java.  
+  It's divided by: a (sections 4 and 5 of the course), b (section 6) and c (section 7).
+    - a1 - Outputs  
+      The different types of print.
+    - a2 - Input  
+      The Scanner.
+    - a3 - Math Functions  
+      Functions to square root, power and module.
+    - a4 - Logic operators & Conditional structure  
+      Logic Operators including and, or, not and conditional structure (if/else)
+    - a5 - Exercises
+      Practicing the topics learned.
+    - a6 - Optional-structures
+      Other options to conditional structure including switch case and ternary operator.
+
+    - b - Looping-Constructs Iteration-Statements
+      Looping structures including While, For and do-while
+    
+    - c1 - Variable names
+      Convetional names.
+    - c2 - Bitwise operators
+      Logic operators to work bit to bit
 
 - `1° OOP - triangle`  
-        First contact with Object-Oriented Programming concepts in Java.  
-        A simple program that calculates the area of two triangles based on their sides, using classes and instances.
+  First contact with Object-Oriented Programming concepts in Java.  
+  A simple program that calculates the area of two triangles based on their sides, using classes and instances.
 
 - `2° OOP - stock`  
   Project with five versions, each one adding new concepts:
@@ -24,10 +52,10 @@ The purpose of this repository is to document my progress during the course and 
   - Version 5: Inclusion of encapsulation using `get` and `set` methods.
 
 - `exercicio1_aluno_aprovado` _(student_approved)_  
-        Simple program to calculate a student's average grade based on three scores and verify if the student is approved.
+  Simple program to calculate a student's average grade based on three scores and verify if the student is approved.
 
 - `exercicio2_membros_estaticos` _(static_members)_  
-        Contains 2 subprojects:
+  Contains 2 subprojects:
   - Project 1:  
     Currency converter: Extra project with a class that converts values from dollars to reais.
 
@@ -38,7 +66,7 @@ The purpose of this repository is to document my progress during the course and 
     - Version 3 – with `static`: Same methods, now using static members.
 
 - `exercicio3_bankAccount`  
-        Basic simulation of a bank account, demonstrating encapsulation, use of `this`, and good constructor practices.
+  Basic simulation of a bank account, demonstrating encapsulation, use of `this`, and good constructor practices.
 
 - `exercicio4_vetores` _(vectors)_  
   Contains 2 exercises:
@@ -58,12 +86,12 @@ The purpose of this repository is to document my progress during the course and 
 ---
 
 
-### Português:
+## Português:
 
 Este repositório contém alguns dos exercícios resolvidos ao longo do curso de Java ministrado por Nélio Alves na Udemy. Cada pasta representa uma etapa do aprendizado e continuará sendo atualizado durante o decorrer do curso e do processo de aprendizado.  
 O objetivo deste repositório é documentar o progresso durante o curso e servir como material de revisão e consulta futura
 
-#### Estrutura do Repositório
+### Estrutura do Repositório
 
 - `1° OOP - triangle`  _(triângulo)_  
   Primeiro contato com os conceitos de Orientação a Objetos em Java.  

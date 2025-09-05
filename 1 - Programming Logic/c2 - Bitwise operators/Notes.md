@@ -1,4 +1,4 @@
-(Conteúdo da aula 58)
+(Conteúdo da aula 58)  
 Geralmente são usados em operações de baixo nível (que lidam diretamente com os recursos fundamentais do computador), como microcontroladores, interfaces com rede, arduino, etc.  
 Esses operadores realizam operações lógicas bit a bit.
 
