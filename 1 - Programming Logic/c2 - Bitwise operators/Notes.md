@@ -2,7 +2,7 @@
 Geralmente são usados em operações de baixo nível (que lidam diretamente com os recursos fundamentais do computador), como microcontroladores, interfaces com rede, arduino, etc.  
 Esses operadores realizam operações lógicas bit a bit.
 
-São eles:  
+São eles:   
 - & -> E  
     Tabela verdade:
     | F1  | F2  | F=  |
