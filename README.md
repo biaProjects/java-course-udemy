@@ -10,7 +10,7 @@ This repository contains exercises, explanations, notes developed based on the [
 
 Each folder represents a learning stage and will continue to be updated as the course progresses and as I keep learning.  
 
-The purpose of this repository is to acquire and document my progress during the course, practice Git and GitHub and serve as review and reference material for the future.
+The purpose of this repository is to acquire knowledge and document my progress during the course, practice Git and GitHub and serve as review and reference material for the future.
 
 
 ### Repository Structure
@@ -82,16 +82,41 @@ The purpose of this repository is to acquire and document my progress during the
     Simulation where a hotel has 10 rooms (from 0 to 9) and they will be rented to X people.  
     The program will read the name, email and the room the person will rent and in the end, it will display the rooms that are occupied.
 
-
 ---
-
 
 ## Português:
 
-Este repositório contém alguns dos exercícios resolvidos ao longo do curso de Java ministrado por Nélio Alves na Udemy. Cada pasta representa uma etapa do aprendizado e continuará sendo atualizado durante o decorrer do curso e do processo de aprendizado.  
-O objetivo deste repositório é documentar o progresso durante o curso e servir como material de revisão e consulta futura
+Este repositório contém exercícios, explicações, anotações desenvolvidas com base no  [Curso Completo de Java – Programação Orientada a Objetos + Projetos](https://www.udemy.com/course/java-curso-completo/?srsltid=AfmBOor14nRT5sp1sHdTBJcIekjZcpPGDS4cR6vX7PaktXu8lt0-m--) ministrado por Nelio Alves na Udemy.
+
+Cada pasta representa uma etapa de aprendizado e continuará sendo atualizada conforme o curso progredir e à medida que eu continuar aprendendo.
+
+O objetivo deste repositório é adquirir conhecimento e documentar meu progresso durante o curso, praticar Git e GitHub e servir como material de revisão e referência para o futuro.
 
 ### Estrutura do Repositório
+
+- `1 - Programming Logic` -> (_Lógica de programação_)  
+  Este arquivo contém a primeira parte do curso. Aqui há algumas anotações, exercícios e exemplos de lógica básica de programação e algoritmo em Java.  
+  Está dividido em: a (seções 4 e 5 do curso), b (seção 6) e c (seção 7).
+    - a1 - Outputs -> (_Saídas_)  
+      Os diferentes tipos de impressão.
+    - a2 - Input -> (_Entrada_)
+      O Scanner.  
+    - a3 - Math Functions -> (_Funções matemáticas_)    
+      Funções para raiz quadrada, potência e módulo.
+    - a4 - Logic operators & Conditional structure-> (_Operadores Lógicos & Estrutura Condicional_)  
+      Operadores lógicos incluindo e, ou, não e estrutura condicional (if/else)
+    - a5 - Exercises -> (_Exercícios_)
+      Praticando os tópicos aprendidos.
+    - a6 - Optional-structures -> (_Estruturas Opcionais_)
+      Outras opções para estrutura condicional incluindo switch case e operador ternário.
+
+    - b - Looping-Constructs Iteration-Statements ->(_Estruturas de Repetição - Instruções de Iteração_)
+      Estruturas de repetição incluindo While, For e do-while
+    
+    - c1 - Variable names -> (_Nomes de Variáveis_)
+      Nomes convencionais.
+    - c2 - Bitwise operators -> (_Operadores Bitwise_)
+      Operadores lógicos para trabalhar bit a bit
 
 - `1° OOP - triangle`  _(triângulo)_  
   Primeiro contato com os conceitos de Orientação a Objetos em Java.  
