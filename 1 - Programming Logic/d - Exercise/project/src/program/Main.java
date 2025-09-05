@@ -15,7 +15,7 @@ public class Main {
 		sc.nextLine();
 		String users = sc.nextLine();
 		
-		String[] vect = users.split(",");
+		String[] vect = users.split(","); 
 		
 		for (int i=0; i<quatityUsers; i++) {
 			String name = vect[i];
