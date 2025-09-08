@@ -10,6 +10,8 @@
 
 <br>
 
+This README is also available in [🇧🇷 Portuguese](README.pt.md)
+
 # Learning Java
 This repository contains exercises, explanations, notes developed based on the [Complete Java Course - Object-Oriented Programming + Projects](https://www.udemy.com/course/java-curso-completo/?srsltid=AfmBOor14nRT5sp1sHdTBJcIekjZcpPGDS4cR6vX7PaktXu8lt0-m--) taught by Nelio Alves on Udemy.
 
