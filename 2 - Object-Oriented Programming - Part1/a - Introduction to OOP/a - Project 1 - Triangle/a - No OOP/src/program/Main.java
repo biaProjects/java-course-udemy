@@ -11,20 +11,20 @@ public class Main {
 		Scanner sc = new Scanner(System.in);
 		
 		System.out.println("Enter the measure of triangle X:");
-		double ladoAX = sc.nextDouble();
-		double ladoBX = sc.nextDouble();
-		double ladoCX = sc.nextDouble();
+		double sideAX = sc.nextDouble();
+		double sideBX = sc.nextDouble();
+		double sideCX = sc.nextDouble();
 		
 		System.out.println("Enter the measure of triangle Y:");
-		double ladoAY = sc.nextDouble();
-		double ladoBY = sc.nextDouble();
-		double ladoCY = sc.nextDouble();
+		double sideAY = sc.nextDouble();
+		double sideBY = sc.nextDouble();
+		double sideCY = sc.nextDouble();
 		
-		double p = (ladoAX + ladoBX + ladoCX) / 2;
-		double areaX = Math.sqrt(p * (p - ladoAX) * (p - ladoBX) * (p - ladoCX));
+		double p = (sideAX + sideBX + sideCX) / 2;
+		double areaX = Math.sqrt(p * (p - sideAX) * (p - sideBX) * (p - sideCX));
 		
-		p = (ladoAY + ladoBY + ladoCY) / 2;
-		double areaY = Math.sqrt(p * (p - ladoAY) * (p - ladoBY) * (p - ladoCY));
+		p = (sideAY + sideBY + sideCY) / 2;
+		double areaY = Math.sqrt(p * (p - sideAY) * (p - sideBY) * (p - sideCY));
 		
 		System.out.printf("Triangle X area: %.4f %n", areaX);
 		System.out.printf("Triangle Y area: %.4f %n", areaY);
@@ -34,5 +34,7 @@ public class Main {
 		} else {
 			System.out.println("Larger area: Y");
 		}
+		
+		sc.close();
 	}
 }
