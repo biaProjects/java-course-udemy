@@ -17,7 +17,7 @@ The purpose of this repository is to acquire knowledge and document my progress 
 
 - `1 - Programming Logic`  
   This file contains the first part of the course. Here there are some notes, exercises and examples of basic Programming logic and algorthm in Java.  
-  It's divided by: a (sections 4 and 5 of the course), b (section 6) and c (section 7).
+  It's divided by: a (sections 4 and 5 of the course), b (section 6), c (section 7) and d (extra exercise).
     - a1 - Outputs  
       The different types of print.
     - a2 - Input  
@@ -26,22 +26,39 @@ The purpose of this repository is to acquire knowledge and document my progress 
       Functions to square root, power and module.
     - a4 - Logic operators & Conditional structure  
       Logic Operators including and, or, not and conditional structure (if/else)
-    - a5 - Exercises
+    - a5 - Exercises  
       Practicing the topics learned.
-    - a6 - Optional-structures
+    - a6 - Optional-structures  
       Other options to conditional structure including switch case and ternary operator.
 
-    - b - Looping-Constructs Iteration-Statements
+    - b - Looping-Constructs Iteration-Statements  
       Looping structures including While, For and do-while
     
-    - c1 - Variable names
+    - c1 - Variable names  
       Convetional names.
-    - c2 - Bitwise operators
+    - c2 - Bitwise operators  
       Logic operators to work bit to bit
+    - c3 - String methods  
+      Some interesting methods to use with String.
+    - c4 - Functions  
+      Function sintax.
 
-- `1° OOP - triangle`  
-  First contact with Object-Oriented Programming concepts in Java.  
-  A simple program that calculates the area of two triangles based on their sides, using classes and instances.
+    - d - Exercise  
+      An extra exercise to practice.
+
+- `2 - Object-Oriented Programming - Part1`  
+  _In progress._  
+  This file contains the introduction to Object-Oriented Programming (OOP).  
+  It is divided in 2 projects used as examples (a), exercises (b) and explanation/exercises about static members (c).
+
+  - `a - Introduction to OOP`  
+    A project that calculates the area of 2 triangles, and tell which area is bigger.  
+    It is divided in 3 parts...
+      1. Without the use of OOP.
+      2. Including OOP
+      3. Including Cohesion
+
+    This project represents the first contact with the POO concepts in Java!  
 
 - `2° OOP - stock`  
   Project with five versions, each one adding new concepts:
@@ -96,31 +113,49 @@ O objetivo deste repositório é adquirir conhecimento e documentar meu progress
 
 - `1 - Programming Logic` -> (_Lógica de programação_)  
   Este arquivo contém a primeira parte do curso. Aqui há algumas anotações, exercícios e exemplos de lógica básica de programação e algoritmo em Java.  
-  Está dividido em: a (seções 4 e 5 do curso), b (seção 6) e c (seção 7).
+  Está dividido em: a (seções 4 e 5 do curso), b (seção 6), c (seção 7) e d (exercício extra).
+
     - a1 - Outputs -> (_Saídas_)  
       Os diferentes tipos de impressão.
-    - a2 - Input -> (_Entrada_)
+    - a2 - Input -> (_Entrada_)  
       O Scanner.  
-    - a3 - Math Functions -> (_Funções matemáticas_)    
+    - a3 - Math Functions -> (_Funções matemáticas_)      
       Funções para raiz quadrada, potência e módulo.
-    - a4 - Logic operators & Conditional structure-> (_Operadores Lógicos & Estrutura Condicional_)  
+    - a4 - Logic operators & Conditional structure-> (_Operadores Lógicos & Estrutura Condicional_)    
       Operadores lógicos incluindo e, ou, não e estrutura condicional (if/else)
-    - a5 - Exercises -> (_Exercícios_)
+    - a5 - Exercises -> (_Exercícios_)  
       Praticando os tópicos aprendidos.
-    - a6 - Optional-structures -> (_Estruturas Opcionais_)
+    - a6 - Optional-structures -> (_Estruturas Opcionais_)  
       Outras opções para estrutura condicional incluindo switch case e operador ternário.
 
-    - b - Looping-Constructs Iteration-Statements ->(_Estruturas de Repetição - Instruções de Iteração_)
+    - b - Looping-Constructs Iteration-Statements ->(_Estruturas de Repetição - Instruções de Iteração_)  
       Estruturas de repetição incluindo While, For e do-while
     
-    - c1 - Variable names -> (_Nomes de Variáveis_)
+    - c1 - Variable names -> (_Nomes de Variáveis_)  
       Nomes convencionais.
-    - c2 - Bitwise operators -> (_Operadores Bitwise_)
+    - c2 - Bitwise operators -> (_Operadores Bitwise_)  
       Operadores lógicos para trabalhar bit a bit
+    - c3 - String methods -> (_Métodos de String_)  
+      Alguns métodos interessantes para usar com String.
+    - c4 - Functions -> (_Funções_)  
+      Sintaxe de funções.
 
-- `1° OOP - triangle`  _(triângulo)_  
-  Primeiro contato com os conceitos de Orientação a Objetos em Java.  
-  Um programa simples que calcula a área de dois triângulos com base nos seus lados, utilizando classes e instâncias.
+    - d - Exercise  
+      Um exercício extra para praticar.
+
+- `2 - Object-Oriented Programming - Part1` -> (_Programação Orientada a Objetos_)  
+  _Em progresso._  
+  Esse arquivo contém a introdução à Programação Orientada a Objetos (POO).  
+  É dividido em 2 projetos usados como exemlos (a), exercícios (b) e explicação/exercicíos sobre membros estaticos (c).
+
+  - `a - Introduction to OOP` -> (_Introdução a POO_)  
+    Um projeto que calcula a área de 2 triângulos e informa qual área é maior.  
+    Está dividido em 3 partes:
+      1. Sem o uso de POO.
+      2. Incluindo POO
+      3. Incluindo coesão
+
+    Este projeto representa o primeiro contato com conceitos de POO em Java!
 
 - `2° OOP - stock`  _(estoque)_  
   Projeto com cinco versões, cada uma acrescentando novos conceitos:
