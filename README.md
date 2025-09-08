@@ -140,7 +140,7 @@ O objetivo deste repositório é adquirir conhecimento e documentar meu progress
     - c4 - Functions -> (_Funções_)  
       Sintaxe de funções.
 
-    - d - Exercise  
+    - d - Exercise -> (_Exercício_)  
       Um exercício extra para praticar.
 
 - `2 - Object-Oriented Programming - Part1` -> (_Programação Orientada a Objetos_)  
