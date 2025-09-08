@@ -1,4 +1,4 @@
-(Conteúdo disponível nas aulas 64 e 65)  
+(Conteúdo disponível nas aulas 64 a 66)  
 
 ### Sem POO
 Primeiro, vamos fazer um programa sem utilizar a Programação Orientada a Objetos (POO).  
@@ -70,3 +70,28 @@ Dentro de `src` iremos criar 2 classes...
 Ou seja:  
 Classe é a definição do tipo  
 Objeto é a instância da classe
+
+
+### Coesão
+O termo coesão se refere a ideia de que cada classe deve ser responsável por si mesma.  
+
+Ou seja...  
+Vamos criar um método para obter os benefícios de reaproveitamento e delegação.  
+A área é algo diretamente relacionado ao triângulo, por isso, deve estar em sua devida classe.  
+
+
+### Projeto da classe (UML)
+Estrutura:
+|        Nome da classe         |
+| :---------------------------: |
+| atributos <br> da <br> classe |
+|       métodos da classe       |
+
+---
+
+Nesse caso:
+
+|                     triangle                     |     
+| :----------------------------------------------: | 
+| - A : double <br> - B : double <br> - C : double | 
+|                + Area() : double                 | 
