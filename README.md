@@ -54,7 +54,7 @@ The purpose of this repository is to acquire knowledge and document my progress 
   - `a - Introduction to OOP`  
     A project that calculates the area of 2 triangles, and tell which area is bigger.  
     It is divided in 3 parts...
-      1. Without the use of OOP.
+      1. Without the use of OOP
       2. Including OOP
       3. Including Cohesion
 
@@ -151,7 +151,7 @@ O objetivo deste repositório é adquirir conhecimento e documentar meu progress
   - `a - Introduction to OOP` -> (_Introdução a POO_)  
     Um projeto que calcula a área de 2 triângulos e informa qual área é maior.  
     Está dividido em 3 partes:
-      1. Sem o uso de POO.
+      1. Sem o uso de POO
       2. Incluindo POO
       3. Incluindo coesão
 
