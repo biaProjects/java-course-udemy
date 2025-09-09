@@ -1,4 +1,4 @@
-(Conteúdo disponível nas aulas 71 e 72)
+(Conteúdo disponível nas aulas 71 a 73)
 
 ### Membros estáticos
 Uma classe possui seus membros (os atributos e os métodos).  
