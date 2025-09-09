@@ -78,8 +78,8 @@ The purpose of this repository is to acquire knowledge and document my progress 
       2. `Salary` -> calculates the salary of the employee based on a percentage of increase
       3. `Student aproved` -> calculates if a student was approved or not based on their grades.
 
-    - `d - Static members` 
-      Contains the explanation of static members, including a project of a 
+    - `d - Static members`  
+      Contains the explanation of static members and a exercise.  
 
 - `2° OOP - stock`  
   Project with five versions, each one adding new concepts:

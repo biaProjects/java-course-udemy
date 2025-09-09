@@ -78,6 +78,9 @@ O objetivo deste repositório é adquirir conhecimento, documentar meu progresso
       2. `Salary` -> calcula o salário de um funcionário baseado numa porcentagem de aumento. 
       3. `Student aproved` -> calcula se um aluno foi aprovado ou não baseado em suas notas.
 
+    - `d - Static members` -> (_Membros estáticos_)  
+      Contém a explicação de membros estáticos e um exercício.
+
 - `2° OOP - stock`  _(estoque)_  
   Projeto com cinco versões, cada uma acrescentando novos conceitos:
   - Versão 1: Estrutura inicial com classe `Product` e operações básicas.
