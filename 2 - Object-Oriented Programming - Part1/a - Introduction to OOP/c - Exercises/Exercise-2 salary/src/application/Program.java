@@ -40,6 +40,7 @@ public class Program {
 		sc.close();
 	}
 }
+
 /*
 |                   Employee                   |
 | -------------------------------------------- |
