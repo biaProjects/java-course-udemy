@@ -59,13 +59,18 @@ The purpose of this repository is to acquire knowledge and document my progress 
   It is divided in 2 projects used as examples (a), exercises (b) and explanation/exercises about static members (c).
 
   - `a - Introduction to OOP`  
-    A project that calculates the area of 2 triangles, and tell which area is bigger.  
-    It is divided in 3 parts...
-      1. Without the use of OOP
-      2. Including OOP
-      3. Including Cohesion
+    - `a - Project 1 - Triangle`  
+      A project that calculates the area of 2 triangles, and tell which area is bigger.  
+      It is divided in 3 parts...
+        1. Without the use of OOP
+        2. Including OOP
+        3. Including Cohesion
 
-    This project represents the first contact with the POO concepts in Java!  
+      This project represents the first contact with the POO concepts in Java!  
+
+    - `b - Project 2 - Stock`  
+      Simple project simulating stock management where a product will have the data: name, price, and quantity in stock, and will include the operations of stock entry and stock exit.  
+      This project also includes teaching the toString method.
 
 - `2° OOP - stock`  
   Project with five versions, each one adding new concepts:

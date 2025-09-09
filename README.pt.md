@@ -54,18 +54,23 @@ O objetivo deste repositório é adquirir conhecimento e documentar meu progress
       Um exercício extra para praticar.
 
 - `2 - Object-Oriented Programming - Part1` -> (_Programação Orientada a Objetos_)  
-  _Em progresso._  
+  _Em andamento_  
   Esse arquivo contém a introdução à Programação Orientada a Objetos (POO).  
   É dividido em 2 projetos usados como exemlos (a), exercícios (b) e explicação/exercicíos sobre membros estaticos (c).
 
   - `a - Introduction to OOP` -> (_Introdução a POO_)  
-    Um projeto que calcula a área de 2 triângulos e informa qual área é maior.  
-    Está dividido em 3 partes:
-      1. Sem o uso de POO
-      2. Incluindo POO
-      3. Incluindo coesão
+    - `a - Project 1 - Triangle -> (_Projeto 1 - Triangulo_)  
+      Um projeto que calcula a área de 2 triângulos e informa qual área é maior.  
+      Está dividido em 3 partes:
+        1. Sem o uso de POO
+        2. Incluindo POO
+        3. Incluindo coesão
+      
+      Este projeto representa o primeiro contato com conceitos de POO em Java!
 
-    Este projeto representa o primeiro contato com conceitos de POO em Java!
+    - `b - Project 2 - Stock` -> (_Projeto 2 - Estoque_)  
+      Projeto simples de uma simução de estoque onde um produto terá os dados nome, preço e quantidade em estoque e possuirá as operações de entrada e saída do estoque.  
+      Este projeto também inclui o ensino do método toString
 
 - `2° OOP - stock`  _(estoque)_  
   Projeto com cinco versões, cada uma acrescentando novos conceitos:
