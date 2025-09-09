@@ -82,6 +82,10 @@ O objetivo deste repositório é adquirir conhecimento, documentar meu progresso
     - `d - Static members` -> (_Membros estáticos_)  
       Contém a explicação de membros estáticos e um exercício.
 
+  - `b - Constructor-this-overloading-encapsulation` -> (_Construtor-this-sobrecarga-encapsulamento)  
+    - `a - Constructors` -> (_Construtores_)  
+      Usa o projeto de estoque para explicar o uso de construtores e da palavra _`this`_
+
 - `2° OOP - stock`  _(estoque)_  
   Projeto com cinco versões, cada uma acrescentando novos conceitos:
   - Versão 1: Estrutura inicial com classe `Product` e operações básicas.
