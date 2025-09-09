@@ -56,9 +56,10 @@ The purpose of this repository is to acquire knowledge and document my progress 
 - `2 - Object-Oriented Programming - Part1`  
   _In progress._  
   This file contains the introduction to Object-Oriented Programming (OOP).  
-  It is divided in 2 projects used as examples (a, b), exercises (c) and explanation/exercises about static members (d).
 
   - `a - Introduction to OOP`  
+    It is divided in 2 projects used as examples (a, b), exercises (c) and explanation/exercises about static members (d).
+
     - `a - Project 1 - Triangle`  
       A project that calculates the area of 2 triangles, and tell which area is bigger.  
       It is divided in 3 parts...

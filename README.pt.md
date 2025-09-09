@@ -56,9 +56,10 @@ O objetivo deste repositório é adquirir conhecimento, documentar meu progresso
 - `2 - Object-Oriented Programming - Part1` -> (_Programação Orientada a Objetos_)  
   _Em andamento_  
   Esse arquivo contém a introdução à Programação Orientada a Objetos (POO).  
-  É dividido em 2 projetos usados como exemplos (a, b), exercícios (c) e explicação/exercícios sobre membros estáticos (d).
 
-  - `a - Introduction to OOP` -> (_Introdução a POO_)  
+  - `a - Introduction to OOP` -> (_Introdução a POO_)    
+    É dividido em 2 projetos usados como exemplos (a, b), exercícios (c) e explicação/exercícios sobre membros estáticos (d).
+    
     - `a - Project 1 - Triangle` -> (_Projeto 1 - Triângulo_)  
       Um projeto que calcula a área de 2 triângulos e informa qual área é maior.  
       Está dividido em 3 partes:
