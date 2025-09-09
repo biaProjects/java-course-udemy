@@ -20,7 +20,7 @@ Exemplo:
 
 As variações do programa serão:
 
-1. tudo junto, na mesma classe  
+1. Tudo junto, na mesma classe  
     Porémm...  
     Em uma mesma classe, não é possível chamar um metodo não estático em um estático.  
     _Como assim?_  
@@ -35,7 +35,7 @@ As variações do programa serão:
     - Classe programa com suas responsabilidades
     - Classe calcular com suas responsabilidades
 
-_Mas... Qual é a difeerença entre um membro estatico e um comum?_  
+_Mas... Qual é a diferença entre um membro estatico e um comum?_  
 
 Vamos usar um exemplo para deixar mais claro...  
 Em um triângulo, cada um tem sua área ou seja, área é uma operação de instância (precisa de um objeto para ser calculada).  
