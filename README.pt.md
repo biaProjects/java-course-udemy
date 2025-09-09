@@ -17,7 +17,7 @@ Este repositório contém exercícios, explicações, anotações desenvolvidas 
 
 Cada pasta representa uma etapa de aprendizado e continuará sendo atualizada conforme o curso progredir e à medida que eu continuar aprendendo.
 
-O objetivo deste repositório é adquirir conhecimento e documentar meu progresso durante o curso, praticar Git e GitHub e servir como material de revisão e referência para o futuro.
+O objetivo deste repositório é adquirir conhecimento, documentar meu progresso durante o curso, praticar Git e GitHub, e servir como material de revisão e referência para o futuro.
 
 ### Estrutura do Repositório
 
@@ -56,10 +56,10 @@ O objetivo deste repositório é adquirir conhecimento e documentar meu progress
 - `2 - Object-Oriented Programming - Part1` -> (_Programação Orientada a Objetos_)  
   _Em andamento_  
   Esse arquivo contém a introdução à Programação Orientada a Objetos (POO).  
-  É dividido em 2 projetos usados como exemlos (a), exercícios (b) e explicação/exercicíos sobre membros estaticos (c).
+  É dividido em 2 projetos usados como exemplos (a, b), exercícios (c) e explicação/exercícios sobre membros estáticos (d).
 
   - `a - Introduction to OOP` -> (_Introdução a POO_)  
-    - `a - Project 1 - Triangle -> (_Projeto 1 - Triangulo_)  
+    - `a - Project 1 - Triangle` -> (_Projeto 1 - Triângulo_)  
       Um projeto que calcula a área de 2 triângulos e informa qual área é maior.  
       Está dividido em 3 partes:
         1. Sem o uso de POO
@@ -69,8 +69,14 @@ O objetivo deste repositório é adquirir conhecimento e documentar meu progress
       Este projeto representa o primeiro contato com conceitos de POO em Java!
 
     - `b - Project 2 - Stock` -> (_Projeto 2 - Estoque_)  
-      Projeto simples de uma simução de estoque onde um produto terá os dados nome, preço e quantidade em estoque e possuirá as operações de entrada e saída do estoque.  
+      Projeto simples de uma simulação de estoque onde um produto terá os dados nome, preço e quantidade em estoque e possuirá as operações de entrada e saída do estoque.  
       Este projeto também inclui o ensino do método toString
+
+    - `c - Exercises` -> (_Exercícios_)  
+      Três exercícios para praticar POO.  
+      1. `Rectangle` -> calcula a área, perímetro e diagonal de um retângulo, baseado em seus lados.
+      2. `Salary` -> calcula o salário de um funcionário baseado numa porcentagem de aumento. 
+      3. `Student aproved` -> calcula se um aluno foi aprovado ou não baseado em suas notas.
 
 - `2° OOP - stock`  _(estoque)_  
   Projeto com cinco versões, cada uma acrescentando novos conceitos:

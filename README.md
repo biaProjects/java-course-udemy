@@ -23,7 +23,7 @@ The purpose of this repository is to acquire knowledge and document my progress 
 ### Repository Structure
 
 - `1 - Programming Logic`  
-  This file contains the first part of the course. Here there are some notes, exercises and examples of basic Programming logic and algorthm in Java.  
+  This file contains the first part of the course. Here there are some notes, exercises and examples of basic Programming logic and algorithm in Java.  
   It's divided by: a (sections 4 and 5 of the course), b (section 6), c (section 7) and d (extra exercise).
     - a1 - Outputs  
       The different types of print.
@@ -42,13 +42,13 @@ The purpose of this repository is to acquire knowledge and document my progress 
       Looping structures including While, For and do-while
     
     - c1 - Variable names  
-      Convetional names.
+      Conventional names.
     - c2 - Bitwise operators  
       Logic operators to work bit to bit
     - c3 - String methods  
       Some interesting methods to use with String.
     - c4 - Functions  
-      Function sintax.
+      Function syntax.
 
     - d - Exercise  
       An extra exercise to practice.
@@ -56,7 +56,7 @@ The purpose of this repository is to acquire knowledge and document my progress 
 - `2 - Object-Oriented Programming - Part1`  
   _In progress._  
   This file contains the introduction to Object-Oriented Programming (OOP).  
-  It is divided in 2 projects used as examples (a), exercises (b) and explanation/exercises about static members (c).
+  It is divided in 2 projects used as examples (a, b), exercises (c) and explanation/exercises about static members (d).
 
   - `a - Introduction to OOP`  
     - `a - Project 1 - Triangle`  
@@ -69,8 +69,14 @@ The purpose of this repository is to acquire knowledge and document my progress 
       This project represents the first contact with the POO concepts in Java!  
 
     - `b - Project 2 - Stock`  
-      Simple project simulating stock management where a product will have the data: name, price, and quantity in stock, and will include the operations of stock entry and stock exit.  
+      Simple project simulating stock management where a product will have the data: name, price, and quantity in stock, and will include the operations of adding to and removing from stock.  
       This project also includes teaching the toString method.
+
+    - `c - Exercises`  
+      Three exercises to practice OOP.  
+      1. `Rectangle` -> calculates the area, perimeter and diagonal of a rectangle, based on its sides.
+      2. `Salary` -> calculates the salary of the employee based on a percentage of increase
+      3. `Student aproved` -> calculates if a student was approved or not based on their grades.
 
 - `2° OOP - stock`  
   Project with five versions, each one adding new concepts:
@@ -91,22 +97,22 @@ The purpose of this repository is to acquire knowledge and document my progress 
   - Project 2: 
     Calculation of circumference and volume.
     - Version 1 – All methods are in the same main class.
-    - Version 2 – with delegation: Creation of a separate class with the methods, applying the delegation principle.
+    - Version 2 – with delegation: Creation of a separate class with the methods, applying applying delegation by moving methods to a separate class.
     - Version 3 – with `static`: Same methods, now using static members.
 
 - `exercicio3_bankAccount`  
   Basic simulation of a bank account, demonstrating encapsulation, use of `this`, and good constructor practices.
 
 - `exercicio4_vetores` _(vectors)_  
-  Contains 2 exercises:
+  Contains the exercises:
   - exercicio_1 _(exercise_1)_:  
     Reads the name and price of X products and calculates the average price.
   - exercicio_2 _(exercise_2)_:  
-    Reads the name, age and height of X people and diaplays the average height, the percentage of people under 16 years old and their names.
+    Reads the name, age and height of X people and displays the average height, the percentage of people under 16 years old and their names.
   - exercicio_3 _(exercise_3)_:  
     Reads X numbers and returns the largest one and its corresponding position.
-  - exercisio_4 _(exercise_4)_:  
+  - exercicio_4 _(exercise_4)_:  
     Receives the values of 2 vectors (A and B) and, based on them, calculates the resulting vector.
   - exercicio_5_usandoForEach _(exercise_5_usingForEach)_:  
-    Simulation where a hotel has 10 rooms (from 0 to 9) and they will be rented to X people.  
+    Simulation where a hotel has 10 rooms (from 0 to 9) and they will be rented out to X people.  
     The program will read the name, email and the room the person will rent and in the end, it will display the rooms that are occupied.
