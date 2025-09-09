@@ -26,6 +26,7 @@ public class Program {
 		sc.close();
 	}
 }
+
 /*
 |       Rectangle        |
 | ---------------------- |
