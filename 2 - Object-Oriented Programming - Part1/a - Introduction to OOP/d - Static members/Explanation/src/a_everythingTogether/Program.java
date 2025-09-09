@@ -17,15 +17,15 @@ public class Program {
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
 		
-		System.out.print("Informe o raio: ");
+		System.out.print("Inform the radius: ");
 		double radius = sc.nextDouble();
 		
 		double circumference = circumference(radius);
 		double volume = volume(radius);
 		
-		System.out.printf("Circunferencia: %.2f%n", circumference);
+		System.out.printf("Circumference: %.2f%n", circumference);
 		System.out.printf("Volume: %.2f%n", volume);
-		System.out.printf("Valor de PI: %.2f", PI);
+		System.out.printf("Value of PI: %.2f", PI);
 		
 		sc.close();
 	}

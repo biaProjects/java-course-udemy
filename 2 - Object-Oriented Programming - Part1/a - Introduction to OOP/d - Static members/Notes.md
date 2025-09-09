@@ -28,3 +28,17 @@ As variações do programa serão:
 
     Como resolver isso??  
     Veremos nas próximas maneiras de resolver esse exercicio.
+
+
+2. Com o principio de delegação  
+    Cada classe terá suas respectivas responsabilidades, ou seja...  
+    - Classe programa com suas responsabilidades
+    - Classe calcular com suas responsabilidades
+
+    _Mas... Qual é a difeerença entre um membro estatico e um comum?_  
+
+    Vamos usar um exemplo para deixar mais claro...  
+    Em um triângulo, cada um tem sua área ou seja, área é uma operação de instância (precisa de um objeto para ser calculada).  
+    Mas, nesse caso, o valor de PI, por exemplo, é estático, já que independentemente do objeto, ele sempre será 3.14.
+
+    Por isso, vamos "refatorar" nosso código incluindo os membros e métodos estáticos.  
