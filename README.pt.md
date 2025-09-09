@@ -97,17 +97,6 @@ O objetivo deste repositório é adquirir conhecimento, documentar meu progresso
 - `exercicio1_aluno_aprovado`  
   Programa simples para cálculo da média de um aluno com base em três notas e verificação de aprovação.
 
-- `exercicio2_membros_estaticos`  
-  Possui 2 subprojetos:
-  - Projeto 1:  
-    Conversor de moedas: Projeto extra com uma classe que converte valores em dólar para real.
-    
-  - Projeto 2:  
-    Cálculo de circunferência e volume.
-    - Versão 1 – todos os métodos estão na mesma classe principal.
-    - Versão 2 – com delegação: Criação de uma classe separada com os métodos, aplicando o princípio da delegação.
-    - Versão 3 – com `static`: Mesmos métodos, agora utilizando membros estáticos.
-
 - `exercicio3_bankAccount` _(conta bancária)_  
   Simulação básica de uma conta bancária, demonstrando encapsulamento, uso de `this` e boas práticas com construtores.
 

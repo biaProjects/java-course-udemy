@@ -97,17 +97,6 @@ The purpose of this repository is to acquire knowledge and document my progress 
 - `exercicio1_aluno_aprovado` _(student_approved)_  
   Simple program to calculate a student's average grade based on three scores and verify if the student is approved.
 
-- `exercicio2_membros_estaticos` _(static_members)_  
-  Contains 2 subprojects:
-  - Project 1:  
-    Currency converter: Extra project with a class that converts values from dollars to reais.
-
-  - Project 2: 
-    Calculation of circumference and volume.
-    - Version 1 – All methods are in the same main class.
-    - Version 2 – with delegation: Creation of a separate class with the methods, applying applying delegation by moving methods to a separate class.
-    - Version 3 – with `static`: Same methods, now using static members.
-
 - `exercicio3_bankAccount`  
   Basic simulation of a bank account, demonstrating encapsulation, use of `this`, and good constructor practices.
 
