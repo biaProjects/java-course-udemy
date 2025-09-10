@@ -91,6 +91,9 @@ The purpose of this repository is to acquire knowledge and document my progress 
 
     - `c - Extra_notes.md`  
 
+    - `d - Encapsulation` -> (_Encapsulamento_)   
+      Explanation about encapsulation and access modifiers.  
+
 - `2° OOP - stock`  
   Project with five versions, each one adding new concepts:
   - Version 1: Initial structure with a `Product` class and basic operations.
