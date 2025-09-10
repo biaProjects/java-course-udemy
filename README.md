@@ -84,7 +84,10 @@ The purpose of this repository is to acquire knowledge and document my progress 
     
   - `b - Constructor-this-overloading-encapsulation`  
     - `a - Constructors`  
-      Use the stock project to explain the use of constructors and the word _`this`_  
+      Use the stock project to explain the use of constructors and the word _`this`_.  
+    
+    - `b - Overloading`   
+      Explanation and example about overloading.  
 
 - `2° OOP - stock`  
   Project with five versions, each one adding new concepts:
