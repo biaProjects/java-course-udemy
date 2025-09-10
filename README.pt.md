@@ -71,7 +71,8 @@ O objetivo deste repositório é adquirir conhecimento, documentar meu progresso
 
     - `b - Project 2 - Stock` -> (_Projeto 2 - Estoque_)  
       Projeto simples de uma simulação de estoque onde um produto terá os dados nome, preço e quantidade em estoque e possuirá as operações de entrada e saída do estoque.  
-      Este projeto também inclui o ensino do método toString
+      Este projeto também inclui o ensino do método toString.  
+      Aqui estão a primeira e segunda versão desse projeto (Estrutura inicial com classe `Product` e operações básicas. Inclusão do método `toString()` para informações do produto.)
 
     - `c - Exercises` -> (_Exercícios_)  
       Três exercícios para praticar POO.  
@@ -84,23 +85,15 @@ O objetivo deste repositório é adquirir conhecimento, documentar meu progresso
 
   - `b - Constructor-this-overloading-encapsulation` -> (_Construtor-this-sobrecarga-encapsulamento)  
     - `a - Constructors` -> (_Construtores_)  
-      Usa o projeto de estoque para explicar o uso de construtores e da palavra _`this`_
+      Terceira versão do projeto de estoque para explicar o uso de construtores e da palavra _`this`_
 
     - `b - Overloading` -> (_Sobrecarga_)  
-      Explicação e exemplo sobre sobrecarga.  
+      Quarta versão do projeto de estoque para explicar sobrecarga.  
 
     - `c - Extra_notes.md` -> (_Anotações_extras_)  
 
     - `d - Encapsulation` -> (_Encapsulamento_)  
-      Explicação sobre encapsulamento e modificadores de acesso  
-
-- `2° OOP - stock`  _(estoque)_  
-  Projeto com cinco versões, cada uma acrescentando novos conceitos:
-  - Versão 1: Estrutura inicial com classe `Product` e operações básicas.
-  - Versão 2: Inclusão do método `toString()` para informações do produto.
-  - Versão 3: Adição de um construtor personalizado.
-  - Versão 4: Sobrecarga, permitindo tanto o construtor padrão quanto o personalizado.  
-  - Versão 5: Inclusão de encapsulamento, com uso de métodos `get` e `set`.  
+      Quinta versão do projeto de estoque incluindo explicação sobre encapsulamento e modificadores de acesso  
 
 - `exercicio1_aluno_aprovado`  
   Programa simples para cálculo da média de um aluno com base em três notas e verificação de aprovação.

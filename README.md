@@ -71,7 +71,8 @@ The purpose of this repository is to acquire knowledge and document my progress 
 
     - `b - Project 2 - Stock`  
       Simple project simulating stock management where a product will have the data: name, price, and quantity in stock, and will include the operations of adding to and removing from stock.  
-      This project also includes teaching the toString method.
+      This project also includes teaching the toString method.  
+      Here are the first and second versions of this project (Initial structure with a `Product` class and basic operations. Inclusion of the `toString()` method for product information.).
 
     - `c - Exercises`  
       Three exercises to practice OOP.  
@@ -84,23 +85,15 @@ The purpose of this repository is to acquire knowledge and document my progress 
     
   - `b - Constructor-this-overloading-encapsulation`  
     - `a - Constructors`  
-      Use the stock project to explain the use of constructors and the word _`this`_.  
+      Third version of the stock project explaining the use of constructors and the word _`this`_.  
     
     - `b - Overloading`   
-      Explanation and example about overloading.  
+      Fourth version of the stock project to explain overloading.  
 
     - `c - Extra_notes.md`  
 
     - `d - Encapsulation` -> (_Encapsulamento_)   
-      Explanation about encapsulation and access modifiers.  
-
-- `2° OOP - stock`  
-  Project with five versions, each one adding new concepts:
-  - Version 1: Initial structure with a `Product` class and basic operations.
-  - Version 2: Inclusion of the `toString()` method for product information.
-  - Version 3: Addition of a custom constructor.
-  - Version 4: Overloading, allowing both default and custom constructors.
-  - Version 5: Inclusion of encapsulation using `get` and `set` methods.
+      Fifth version of stock project including encapsulation and access modifiers.  
 
 - `exercicio1_aluno_aprovado` _(student_approved)_  
   Simple program to calculate a student's average grade based on three scores and verify if the student is approved.
