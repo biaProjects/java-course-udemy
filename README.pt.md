@@ -89,6 +89,8 @@ O objetivo deste repositório é adquirir conhecimento, documentar meu progresso
     - `b - Overloading` -> (_Sobrecarga_)  
       Explicação e exemplo sobre sobrecarga.  
 
+    - `c - Extra_notes.md` -> (_Anotações_extras_)    
+
 - `2° OOP - stock`  _(estoque)_  
   Projeto com cinco versões, cada uma acrescentando novos conceitos:
   - Versão 1: Estrutura inicial com classe `Product` e operações básicas.

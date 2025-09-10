@@ -89,6 +89,8 @@ The purpose of this repository is to acquire knowledge and document my progress 
     - `b - Overloading`   
       Explanation and example about overloading.  
 
+    - `c - Extra_notes.md`  
+
 - `2° OOP - stock`  
   Project with five versions, each one adding new concepts:
   - Version 1: Initial structure with a `Product` class and basic operations.
