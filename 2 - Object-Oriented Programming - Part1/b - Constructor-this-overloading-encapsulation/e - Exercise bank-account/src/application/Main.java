@@ -56,3 +56,14 @@ public class Main {
 	}
 
 }
+
+/*
+|               account              |
+| ---------------------------------- |
+|        - number : Interger         |
+|         - holder : String          |
+|         - balance : Double         |
+| ---------------------------------- |
+|  + deposit(amont : double) : void  |
+| + withdraw(amount : double) : void |
+*/
