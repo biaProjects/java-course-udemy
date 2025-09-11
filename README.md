@@ -55,7 +55,7 @@ The purpose of this repository is to acquire knowledge and document my progress 
 
 - `2 - Object-Oriented Programming - Part1`  
   _In progress._  
-  This file contains the introduction to Object-Oriented Programming (OOP).  
+  This file contains the introduction to Object-Oriented Programming (OOP) and is divided in the sections 8 (a) and 9 (b).    
 
   - `a - Introduction to OOP`  
     It is divided in 2 projects used as examples (a, b), exercises (c) and explanation/exercises about static members (d).
