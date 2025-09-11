@@ -92,14 +92,14 @@ The purpose of this repository is to acquire knowledge and document my progress 
 
     - `c - Extra_notes.md`  
 
-    - `d - Encapsulation` -> (_Encapsulamento_)   
+    - `d - Encapsulation`  
       Fifth version of stock project including encapsulation and access modifiers.  
+    
+    - `e - Exercise bank-account`  
+      Basic simulation of a bank account, demonstrating encapsulation, use of `this`, and good constructor practices.
 
 - `exercicio1_aluno_aprovado` _(student_approved)_  
   Simple program to calculate a student's average grade based on three scores and verify if the student is approved.
-
-- `exercicio3_bankAccount`  
-  Basic simulation of a bank account, demonstrating encapsulation, use of `this`, and good constructor practices.
 
 - `exercicio4_vetores` _(vectors)_  
   Contains the exercises:

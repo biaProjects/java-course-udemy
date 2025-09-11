@@ -83,7 +83,7 @@ O objetivo deste repositório é adquirir conhecimento, documentar meu progresso
     - `d - Static members` -> (_Membros estáticos_)  
       Contém a explicação de membros estáticos e um exercício.
 
-  - `b - Constructor-this-overloading-encapsulation` -> (_Construtor-this-sobrecarga-encapsulamento)  
+  - `b - Constructor-this-overloading-encapsulation` -> (_Construtor-this-sobrecarga-encapsulamento_)  
     - `a - Constructors` -> (_Construtores_)  
       Terceira versão do projeto de estoque para explicar o uso de construtores e da palavra _`this`_
 
@@ -94,12 +94,12 @@ O objetivo deste repositório é adquirir conhecimento, documentar meu progresso
 
     - `d - Encapsulation` -> (_Encapsulamento_)  
       Quinta versão do projeto de estoque incluindo explicação sobre encapsulamento e modificadores de acesso  
+    
+    - `e - Exercise bank-account` -> (_Exercício conta-bancária_)  
+      Simulação básica de uma conta bancária, demonstrando encapsulamento, uso de `this` e boas práticas com construtores.
 
 - `exercicio1_aluno_aprovado`  
   Programa simples para cálculo da média de um aluno com base em três notas e verificação de aprovação.
-
-- `exercicio3_bankAccount` _(conta bancária)_  
-  Simulação básica de uma conta bancária, demonstrando encapsulamento, uso de `this` e boas práticas com construtores.
 
 - `exercicio4_vetores`  
   Possui 2 exercícios:
