@@ -132,13 +132,13 @@ Quando alocamos (new) qualquer tipo estruturado (classe ou array), são atribuid
 | Objetos instanciados no heap (em tempo de execução)                          | "Objeto" instanciado no stack                                    |
 | Se não utilizados, são desalocados num momento futuro pelo garbage collector | Desalocados imediatamente quando escopo de execução é finalizado |
 
-
+<br>
 
 # Desalocação de memória
 - Garbage collector
 - Escopo local
 
-## garbage collector
+## Garbage collector
 É o processo que automatiza o gerenciamento de memória de um programa em execução.    
 Ele monitora os objetos alocados dinamicamente pelo programa (na área heap), desalocando aqueles que não estão mais sendo utilizados.  
 
@@ -152,8 +152,7 @@ Então, na memória, em stack, teremos:
 - O escopo do if  
 Quando a execução sair do bloco de comandos de if, a variável declarada dentro dele será automaticamente desalocada da memória.  
 
-
-
+## Resumindo...
 Objetos alocados dinamicamente (durante a execução), quando não possuem mais referência para eles, serão desalocados pelo garbage collector.
 
 Variáveis locais são desalocadas imediatamente assim que seu escopo local sai de execução.  
