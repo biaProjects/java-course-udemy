@@ -1,4 +1,4 @@
-(Conteúdo disponivel na aula 87)
+(Conteúdo disponivel na aula 87 e 88)
 
 # Tipos referência vs. tipos valor
 
@@ -131,3 +131,30 @@ Quando alocamos (new) qualquer tipo estruturado (classe ou array), são atribuid
 | y = x  \|  y aponta para onde x apontar                                      | y = x  \|  y recebe copia de x                                   |
 | Objetos instanciados no heap (em tempo de execução)                          | "Objeto" instanciado no stack                                    |
 | Se não utilizados, são desalocados num momento futuro pelo garbage collector | Desalocados imediatamente quando escopo de execução é finalizado |
+
+
+
+# Desalocação de memória
+- Garbage collector
+- Escopo local
+
+## garbage collector
+É o processo que automatiza o gerenciamento de memória de um programa em execução.    
+Ele monitora os objetos alocados dinamicamente pelo programa (na área heap), desalocando aqueles que não estão mais sendo utilizados.  
+
+
+## Desalocação por escopo
+Exemplo:  
+Nos condicionais if... se a variável não for declarada fora do escopo do if/else, ela não será usada fora dele.  
+
+Então, na memória, em stack, teremos:  
+- O escopo geral  
+- O escopo do if  
+Quando a execução sair do bloco de comandos de if, a variável declarada dentro dele será automaticamente desalocada da memória.  
+
+
+
+Objetos alocados dinamicamente (durante a execução), quando não possuem mais referência para eles, serão desalocados pelo garbage collector.
+
+Variáveis locais são desalocadas imediatamente assim que seu escopo local sai de execução.  
+
