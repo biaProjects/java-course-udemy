@@ -100,6 +100,7 @@ The purpose of this repository is to acquire knowledge and document my progress 
     
   - `c - MemoryBehavior-arrays-lists`  
     - `a - Reference-and-Value-Types - Memory-deallocation`  
+    - `b - Vectors`
 
 - `exercicio1_aluno_aprovado` _(student_approved)_  
   Simple program to calculate a student's average grade based on three scores and verify if the student is approved.

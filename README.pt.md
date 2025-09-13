@@ -99,7 +99,8 @@ O objetivo deste repositório é adquirir conhecimento, documentar meu progresso
       Simulação básica de uma conta bancária, demonstrando encapsulamento, uso de `this` e boas práticas com construtores.
     
   - `c - MemoryBehavior-arrays-lists` -> (_Comportamento de memória-arrays-listas_)    
-    - `a - Reference-and-Value-Types - Memory-deallocation`-> (_Tipos referência e valor - Desalocação de memória_)    
+    - `a - Reference-and-Value-Types - Memory-deallocation` -> (_Tipos referência e valor - Desalocação de memória_)    
+    - `b - Vectors` -> (_Vetores_)  
 
 - `exercicio1_aluno_aprovado`  
   Programa simples para cálculo da média de um aluno com base em três notas e verificação de aprovação.
