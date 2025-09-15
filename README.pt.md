@@ -100,8 +100,10 @@ O objetivo deste repositório é adquirir conhecimento, documentar meu progresso
     
   - `c - MemoryBehavior-arrays-lists` -> (_Comportamento de memória-arrays-listas_)    
     - `a - Reference-and-Value-Types - Memory-deallocation` -> (_Tipos referência e valor - Desalocação de memória_)    
-    - `b - Vectors` -> (_Vetores_)  
-      Em `Projeto` temos 2 exemplos. O primeiro registra a altura de X pessoas e retorna a média. O segundo registra X produtos e retorna o preço médio deles.
+    - `b - Vectors` -> (_Vetores_)   
+      Em `Project` temos 2 exemplos. O primeiro registra a altura de X pessoas e retorna a média. O segundo registra X produtos e retorna o preço médio deles.  
+      Em `Exercises` temos:   
+        - Exercício 1: Lê X números, retorna os negativos, a soma e a média entre eles.
 
 - `exercicio1_aluno_aprovado`  
   Programa simples para cálculo da média de um aluno com base em três notas e verificação de aprovação.
