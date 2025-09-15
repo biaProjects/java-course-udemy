@@ -111,9 +111,7 @@ O objetivo deste repositório é adquirir conhecimento, documentar meu progresso
   Programa simples para cálculo da média de um aluno com base em três notas e verificação de aprovação.
 
 - `exercicio4_vetores`  
-  Possui 2 exercícios:
-  - exercicio_1:  
-    Lê o nome e preço de X produtos e calcula a média de preços.
+  Possui os exercícios:
   - exercicio_2:  
     Lê o nome, a idade e a altura de X pessoas e informa a altura média, porcentagem de menores de 16 anos e quais são seus nomes.
   - exercicio_3:  

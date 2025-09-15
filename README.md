@@ -112,8 +112,6 @@ The purpose of this repository is to acquire knowledge and document my progress 
 
 - `exercicio4_vetores` _(vectors)_  
   Contains the exercises:
-  - exercicio_1 _(exercise_1)_:  
-    Reads the name and price of X products and calculates the average price.
   - exercicio_2 _(exercise_2)_:  
     Reads the name, age and height of X people and displays the average height, the percentage of people under 16 years old and their names.
   - exercicio_3 _(exercise_3)_:  
