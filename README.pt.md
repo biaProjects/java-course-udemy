@@ -103,7 +103,8 @@ O objetivo deste repositório é adquirir conhecimento, documentar meu progresso
     - `b - Vectors` -> (_Vetores_)   
       Em `Project` temos 2 exemplos. O primeiro registra a altura de X pessoas e retorna a média. O segundo registra X produtos e retorna o preço médio deles.  
       Em `Exercises` temos:   
-        - Exercício 1: Lê X números, retorna os negativos, a soma e a média entre eles.
+        - Exercício 1: Recebe X números, retorna os negativos, a soma e a média entre eles.
+        - Exercício 2: Recebe o nome, idade e altura de X pessoas e retorna a altura média e a porcentagem de menores de 16 anos.
 
 - `exercicio1_aluno_aprovado`  
   Programa simples para cálculo da média de um aluno com base em três notas e verificação de aprovação.

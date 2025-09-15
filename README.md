@@ -104,6 +104,7 @@ The purpose of this repository is to acquire knowledge and document my progress 
        In `Project` we has 2 examples. The first register the height of X people and return the average. The second register X products and return the average price of them.  
       In `Exercises` there is:   
         - Exercise 1: It receives X numbers and return the negatives, the sum and average.
+        - Exercise 2: It receives the name, age and height of X people and returns the average height and percentage of younger than 16 years old.
 
 - `exercicio1_aluno_aprovado` _(student_approved)_  
   Simple program to calculate a student's average grade based on three scores and verify if the student is approved.
