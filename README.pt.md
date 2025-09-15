@@ -105,6 +105,7 @@ O objetivo deste repositório é adquirir conhecimento, documentar meu progresso
       Em `Exercises` temos:   
         - Exercício 1: Recebe X números, retorna os negativos, a soma e a média entre eles.
         - Exercício 2: Recebe o nome, idade e altura de X pessoas e retorna a altura média e a porcentagem de menores de 16 anos.
+        - Exercício 3: Recebe X números e retorna o maior e os pares.
 
 - `exercicio1_aluno_aprovado`  
   Programa simples para cálculo da média de um aluno com base em três notas e verificação de aprovação.
