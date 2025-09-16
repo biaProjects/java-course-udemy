@@ -113,8 +113,6 @@ The purpose of this repository is to acquire knowledge and document my progress 
 
 - `exercicio4_vetores` _(vectors)_  
   Contains the exercises:
-  - exercicio_4 _(exercise_4)_:  
-    Receives the values of 2 vectors (A and B) and, based on them, calculates the resulting vector.
   - exercicio_5_usandoForEach _(exercise_5_usingForEach)_:  
     Simulation where a hotel has 10 rooms (from 0 to 9) and they will be rented out to X people.  
     The program will read the name, email and the room the person will rent and in the end, it will display the rooms that are occupied.

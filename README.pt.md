@@ -113,8 +113,6 @@ O objetivo deste repositório é adquirir conhecimento, documentar meu progresso
 
 - `exercicio4_vetores`  
   Possui os exercícios:
-  - exercicio_4:  
-    Recebe os valores de 2 vetores (A e B) e, a partir deles, cálcula o vetor resultante.
   - exercicio_5_usandoForEach:  
     Simulação onde um hotel tem 10 quartos (de 0 a 9) e serão alugados para X pessoas.  
     O programa lerá o nome, email e quarto que a pessoa irá alugar e no final, informará os quartos que estão ocupados.
