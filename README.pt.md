@@ -112,8 +112,6 @@ O objetivo deste repositório é adquirir conhecimento, documentar meu progresso
 
 - `exercicio4_vetores`  
   Possui os exercícios:
-  - exercicio_3:  
-    Lê X números e retorna o maior deles e sua respectiva posição.
   - exercicio_4:  
     Recebe os valores de 2 vetores (A e B) e, a partir deles, cálcula o vetor resultante.
   - exercicio_5_usandoForEach:  

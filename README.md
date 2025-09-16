@@ -112,8 +112,6 @@ The purpose of this repository is to acquire knowledge and document my progress 
 
 - `exercicio4_vetores` _(vectors)_  
   Contains the exercises:
-  - exercicio_3 _(exercise_3)_:  
-    Reads X numbers and returns the largest one and its corresponding position.
   - exercicio_4 _(exercise_4)_:  
     Receives the values of 2 vectors (A and B) and, based on them, calculates the resulting vector.
   - exercicio_5_usandoForEach _(exercise_5_usingForEach)_:  
