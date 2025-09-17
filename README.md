@@ -108,6 +108,3 @@ The purpose of this repository is to acquire knowledge and document my progress 
         - Exercise 3: It receives X numbers and return the heighest and the evens.
         - Exercise 4: It receives the values of 2 vectors (A and B) and, based on them, calculates the resultant vector.  
         - Exercise 5: It's a simulation where a hotel has 10 room (from 0 to 9) and they will be rented to X people. The program receives the name, email and room the person will rent and in the end, displays the rooms that are occupied.
-  
-- `exercicio1_aluno_aprovado` _(student_approved)_  
-  Simple program to calculate a student's average grade based on three scores and verify if the student is approved.

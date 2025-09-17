@@ -108,6 +108,3 @@ O objetivo deste repositório é adquirir conhecimento, documentar meu progresso
         - Exercício 3: Recebe X números e retorna o maior e os pares.
         - Exercício 4: Recebe os valores de 2 vetores (A e B) e, a partir deles, calcula o vetor resultante.  
         - Exercício 5: Uma simulação onde um hotel tem 10 quartos (de 0 a 9) e eles serão alugados para X pessoas. O programa recebe o nome, email e quarto que a pessoa irá alugar e no final informa os quartos que estão ocupados.
-  
-- `exercicio1_aluno_aprovado`  
-  Programa simples para cálculo da média de um aluno com base em três notas e verificação de aprovação.
