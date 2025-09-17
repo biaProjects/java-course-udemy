@@ -25,6 +25,9 @@ The purpose of this repository is to acquire knowledge and document my progress 
 - `1 - Programming Logic`  
   This file contains the first part of the course. Here there are some notes, exercises and examples of basic Programming logic and algorithm in Java.  
   It's divided by: a (sections 4 and 5 of the course), b (section 6), c (section 7) and d (extra exercise).
+  <details>
+  <summary>Details</summary>
+
     - a1 - Outputs  
       The different types of print.
     - a2 - Input  
@@ -53,12 +56,18 @@ The purpose of this repository is to acquire knowledge and document my progress 
     - d - Exercise  
       An extra exercise to practice.
 
+<br>
+
 - `2 - Object-Oriented Programming - Part1`  
   _In progress._  
   This file contains the introduction to Object-Oriented Programming (OOP) and is divided in the sections 8 (a) and 9 (b).    
+  <details>
+  <summary>Details</summary>
 
   - `a - Introduction to OOP`  
     It is divided in 2 projects used as examples (a, b), exercises (c) and explanation/exercises about static members (d).
+    <details>
+    <summary>Details</summary>
 
     - `a - Project 1 - Triangle`  
       A project that calculates the area of 2 triangles, and tell which area is bigger.  
@@ -84,6 +93,9 @@ The purpose of this repository is to acquire knowledge and document my progress 
       Contains the explanation of static members and a exercise.  
     
   - `b - Constructor-this-overloading-encapsulation`  
+    <details>
+    <summary>Details</summary>
+
     - `a - Constructors`  
       Third version of the stock project explaining the use of constructors and the word _`this`_.  
     
@@ -99,6 +111,9 @@ The purpose of this repository is to acquire knowledge and document my progress 
       Basic simulation of a bank account, demonstrating encapsulation, use of `this`, and good constructor practices.
     
   - `c - MemoryBehavior-arrays-lists`  
+    <details>
+    <summary>Details</summary>
+
     - `a - Reference-and-Value-Types - Memory-deallocation`  
     - `b - Vectors`  
        In `Project` we has 2 examples. The first register the height of X people and return the average. The second register X products and return the average price of them.  

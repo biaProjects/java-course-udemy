@@ -24,6 +24,8 @@ O objetivo deste repositório é adquirir conhecimento, documentar meu progresso
 - `1 - Programming Logic` -> (_Lógica de programação_)  
   Este arquivo contém a primeira parte do curso. Aqui há algumas anotações, exercícios e exemplos de lógica básica de programação e algoritmo em Java.  
   Está dividido em: a (seções 4 e 5 do curso), b (seção 6), c (seção 7) e d (exercício extra).
+  <details>
+  <summary>Detalhes</summary>
 
     - a1 - Outputs -> (_Saídas_)  
       Os diferentes tipos de impressão.
@@ -53,12 +55,19 @@ O objetivo deste repositório é adquirir conhecimento, documentar meu progresso
     - d - Exercise -> (_Exercício_)  
       Um exercício extra para praticar.
 
+<br> 
+
 - `2 - Object-Oriented Programming - Part1` -> (_Programação Orientada a Objetos_)  
   _Em andamento_  
-  Esse arquivo contém a introdução à Programação Orientada a Objetos (POO) e está dividido nas seções 8 (a) e 9 (b).   
+  Esse arquivo contém a introdução à Programação Orientada a Objetos (POO) e está dividido nas seções 8 (a) e 9 (b). 
+  <details>
+  <summary>Detalhes</summary>
+  
 
   - `a - Introduction to OOP` -> (_Introdução a POO_)    
     É dividido em 2 projetos usados como exemplos (a, b), exercícios (c) e explicação/exercícios sobre membros estáticos (d).
+    <details>
+    <summary>Detalhes</summary>
     
     - `a - Project 1 - Triangle` -> (_Projeto 1 - Triângulo_)  
       Um projeto que calcula a área de 2 triângulos e informa qual área é maior.  
@@ -84,6 +93,9 @@ O objetivo deste repositório é adquirir conhecimento, documentar meu progresso
       Contém a explicação de membros estáticos e um exercício.
 
   - `b - Constructor-this-overloading-encapsulation` -> (_Construtor-this-sobrecarga-encapsulamento_)  
+    <details>
+    <summary>Detalhes</summary>
+
     - `a - Constructors` -> (_Construtores_)  
       Terceira versão do projeto de estoque para explicar o uso de construtores e da palavra _`this`_
 
@@ -99,6 +111,9 @@ O objetivo deste repositório é adquirir conhecimento, documentar meu progresso
       Simulação básica de uma conta bancária, demonstrando encapsulamento, uso de `this` e boas práticas com construtores.
     
   - `c - MemoryBehavior-arrays-lists` -> (_Comportamento de memória-arrays-listas_)    
+    <details>
+    <summary>Detalhes</summary>
+
     - `a - Reference-and-Value-Types - Memory-deallocation` -> (_Tipos referência e valor - Desalocação de memória_)    
     - `b - Vectors` -> (_Vetores_)   
       Em `Project` temos 2 exemplos. O primeiro registra a altura de X pessoas e retorna a média. O segundo registra X produtos e retorna o preço médio deles.  
