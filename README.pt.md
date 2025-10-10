@@ -1,12 +1,12 @@
+<p>
+    <img src="https://img.shields.io/badge/Status-Em%20Andamento-green" alt="Status" />
+</p>
+
 <p align="center">
     <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java logo" width="100"/>
 </p>
 
 <br>
-
-<p align="center">
-    <img src="https://img.shields.io/badge/Status-Em%20Andamento-green" alt="Status" />
-</p>
 
 <br>
 
