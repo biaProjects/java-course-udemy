@@ -124,3 +124,6 @@ The purpose of this repository is to acquire knowledge and document my progress 
         - Exercise 4: It receives the values of 2 vectors (A and B) and, based on them, calculates the resultant vector.  
         - Exercise 5: It's a simulation where a hotel has 10 room (from 0 to 9) and they will be rented to X people. The program receives the name, email and room the person will rent and in the end, displays the rooms that are occupied.
     - `c - For-each`  
+    - `d - Lists`  
+      Contains explanations about lists.
+
