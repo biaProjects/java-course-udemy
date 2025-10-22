@@ -19,6 +19,7 @@ Each folder represents a learning stage and will continue to be updated as the c
 
 The purpose of this repository is to acquire knowledge and document my progress during the course, practice Git and GitHub and serve as review and reference material for the future.
 
+<br> 
 
 ## Repository Structure
 
