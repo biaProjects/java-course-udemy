@@ -12,3 +12,23 @@ Lista é uma estrutura de dados:
 Tipo (interface): List
 - Classes que implementam: ArrayList, LinkedList, etc.
 - Não pode instanciar esse tipo, precisa de uma classe que implementem essa interface
+
+
+## Operações
+|               Operação               |       Como fazer       |
+| :----------------------------------: | :--------------------: |
+|               Tamanho                |        .size()         |
+|          Elemento posição x          |        .get(x)         |
+|           Inserir elemento           |     .add(elemento)     |
+|     Inserir elemento na posição x    |    .add(x, elemento)   |
+|           Remover elemento           |    .remove(elemento)   |
+|     Remover elemento da posição x    |       .remove(x)       |
+|         Remover se tal coisa         |  .removeIf(predicate)  |
+|    Encontrar posição de elemento     |   .indexOf(elemento)   |
+| Encontrar última posição de elemento | .lastIndexOf(elemento) |
+
+### Filtros:  
+- Filtrar com base em um predicado   
+    List<> result = list.stream().filter(x -> x > 4).collect(Collectors.toList());  
+- Primeira ocorrência com base em predicado:   
+    Integer result = list.stream().filter(x -> x > 4).findFirst().orElse(null);  
