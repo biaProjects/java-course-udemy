@@ -19,7 +19,7 @@ Cada pasta representa uma etapa de aprendizado e continuará sendo atualizada co
 
 O objetivo deste repositório é adquirir conhecimento, documentar meu progresso durante o curso, praticar Git e GitHub, e servir como material de revisão e referência para o futuro.
 
-### Estrutura do Repositório
+## Estrutura do Repositório
 
 - `1 - Programming Logic` -> (_Lógica de programação_)  
   Este arquivo contém a primeira parte do curso. Aqui há algumas anotações, exercícios e exemplos de lógica básica de programação e algoritmo em Java.  

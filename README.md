@@ -20,7 +20,7 @@ Each folder represents a learning stage and will continue to be updated as the c
 The purpose of this repository is to acquire knowledge and document my progress during the course, practice Git and GitHub and serve as review and reference material for the future.
 
 
-### Repository Structure
+## Repository Structure
 
 - `1 - Programming Logic`  
   This file contains the first part of the course. Here there are some notes, exercises and examples of basic Programming logic and algorithm in Java.  
