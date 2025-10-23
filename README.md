@@ -129,5 +129,5 @@ The purpose of this repository is to acquire knowledge and document my progress 
       Contains explanations about lists.
 
 <p align="right">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Duke_%28Java_mascot%29_waving.svg" width="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Duke_%28Java_mascot%29_waving.svg" width="60"/>
 </p>
