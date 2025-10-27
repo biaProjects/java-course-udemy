@@ -117,7 +117,7 @@ The purpose of this repository is to acquire knowledge and document my progress 
 
     - `a - Reference-and-Value-Types - Memory-deallocation`  
     - `b - Vectors`  
-       In `Project` we has 2 examples. The first register the height of X people and return the average. The second register X products and return the average price of them.  
+      In `Project` we has 2 examples. The first register the height of X people and return the average. The second register X products and return the average price of them.  
       In `Exercises` there is:   
         - Exercise 1: It receives X numbers and return the negatives, the sum and average.
         - Exercise 2: It receives the name, age and height of X people and returns the average height and percentage of younger than 16 years old.
@@ -126,7 +126,8 @@ The purpose of this repository is to acquire knowledge and document my progress 
         - Exercise 5: It's a simulation where a hotel has 10 room (from 0 to 9) and they will be rented to X people. The program receives the name, email and room the person will rent and in the end, displays the rooms that are occupied.
     - `c - For-each`  
     - `d - Lists`  
-      Contains explanations about lists.
+      - `Explanations`  
+        Contains the explanations and example about lists.  
 
 <p align="right">
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Duke_%28Java_mascot%29_waving.svg" width="60"/>
