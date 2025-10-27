@@ -72,3 +72,8 @@ List<Interger> list = new ArrayList<>();
 ```
 
 Agora sim! A lista está pronta para ser utilizada.  
+
+--- 
+
+Quer ver um exemplo?  
+[Clique aqui!](https://github.com/biaProjects/java-course-udemy/blob/master/2%20-%20Object-Oriented%20Programming%20-%20Part1/c%20-%20MemoryBehavior-arrays-lists/d%20-%20Lists/Explanations/Example/src/program/Main.java)
