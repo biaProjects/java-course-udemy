@@ -51,3 +51,24 @@ Ou seja...
 3. Nome da váriavel que receberá a lista
 
 Diferentemente do vetor, a lista não aceita tipos primitivos. Precisa de wrapper class.  
+
+## Instanciando a lista
+Só declarar não permite que possamos utilizar a lista. É necessário declará-la.  
+Por ela ser uma interface, não basta colocar ```new List<>();```.  
+Então... precisaremos de uma classe que implementa essa interface.  
+
+Uma classe comum para esse caso é `ArrayList` (import java.util.ArrayList;).  
+
+Escolhemos essa classe para ser algo otimizados, ela usa características de vetor e de lista.  
+
+```
+import java.util.ArrayList;
+import java.util.List;
+
+(...)
+
+List<Interger> list = new ArrayList<>();
+// colocar o tipo em <> do ArrayList é opcional
+```
+
+Agora sim! A lista está pronta para ser utilizada.  
