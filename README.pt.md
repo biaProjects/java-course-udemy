@@ -61,7 +61,7 @@ O objetivo deste repositório é adquirir conhecimento, documentar meu progresso
 
 - `2 - Object-Oriented Programming - Part1` -> (_Programação Orientada a Objetos_)  
   _Em andamento_  
-  Esse arquivo contém a introdução à Programação Orientada a Objetos (POO) e está dividido nas seções 8 (a) e 9 (b). 
+  Esse arquivo contém a introdução à Programação Orientada a Objetos (POO) e está dividido nas seções 8 (a), 9 (b), 10 (c) e 11 (d). 
   <details>
   <summary>Detalhes</summary>
   
