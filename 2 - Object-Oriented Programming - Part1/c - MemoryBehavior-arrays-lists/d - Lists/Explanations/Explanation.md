@@ -28,10 +28,10 @@ Tipo (interface): List
 | Encontrar última posição de elemento | .lastIndexOf(elemento) |
 
 ### Filtros:  
-- Filtrar com base em um predicado  
-    List<> result = list.stream().filter(x -> x > 4).collect(Collectors.toList());  
-- Primeira ocorrência com base em predicado:  
-    Integer result = list.stream().filter(x -> x > 4).findFirst().orElse(null);  
+1. Filtrar com base em um predicado  
+    List<> result = list.stream().filter(x -> x > 4).collect(Collectors.toList());  
+2. Primeira ocorrência com base em predicado:  
+    Integer result = list.stream().filter(x -> x > 4).findFirst().orElse(null);  
 
 
 ## Exemplo:
@@ -51,6 +51,8 @@ Ou seja...
 3. Nome da váriavel que receberá a lista
 
 Diferentemente do vetor, a lista não aceita tipos primitivos. Precisa de wrapper class.  
+
+<br>
 
 ## Instanciando a lista
 Só declarar não permite que possamos utilizar a lista. É necessário declará-la.  
