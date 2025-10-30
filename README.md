@@ -35,20 +35,20 @@ The purpose of this repository is to acquire knowledge and document my progress 
       The Scanner.
     - [a3 - Math Functions](https://github.com/biaProjects/java-course-udemy/tree/master/1%20-%20Programming%20Logic/a3%20-%20Math%20Functions)  
       Functions to square root, power and module.
-    - [a4 - Logic operators & Conditional structure  
-      Logic Operators including and, or, not and conditional structure (if/else)](https://github.com/biaProjects/java-course-udemy/tree/master/1%20-%20Programming%20Logic/a4%20-%20Logic%20operators%20%26%20Conditional%20structure)
+    - [a4 - Logic operators & Conditional structure](https://github.com/biaProjects/java-course-udemy/tree/master/1%20-%20Programming%20Logic/a4%20-%20Logic%20operators%20%26%20Conditional%20structure)  
+    Logic Operators including and, or, not and conditional structure (if/else).
     - [a5 - Exercises](https://github.com/biaProjects/java-course-udemy/tree/master/1%20-%20Programming%20Logic/a5%20-%20Exercises)  
       Practicing the topics learned.
     - [a6 - Optional-structures](https://github.com/biaProjects/java-course-udemy/tree/master/1%20-%20Programming%20Logic/a6%20-%20Optional-structures)  
       Other options to conditional structure including switch case and ternary operator.
 
     - [b - Looping-Constructs Iteration-Statements](https://github.com/biaProjects/java-course-udemy/tree/master/1%20-%20Programming%20Logic/b%20-%20Looping-Constructs%20Iteration-Statements)  
-      Looping structures including While, For and do-while
+      Looping structures including While, For and do-while.
     
     - [c1 - Variable names](https://github.com/biaProjects/java-course-udemy/tree/master/1%20-%20Programming%20Logic/c1%20-%20Variable%20names)  
       Conventional names.
     - [c2 - Bitwise operators](https://github.com/biaProjects/java-course-udemy/tree/master/1%20-%20Programming%20Logic/c2%20-%20Bitwise%20operators)  
-      Logic operators to work bit to bit
+      Logic operators to work bit to bit.
     - [c3 - String methods](https://github.com/biaProjects/java-course-udemy/tree/master/1%20-%20Programming%20Logic/c3%20-%20String%20methods)  
       Some interesting methods to use with String.
     - [c4 - Functions](https://github.com/biaProjects/java-course-udemy/tree/master/1%20-%20Programming%20Logic/c4%20-%20Functions)  
@@ -65,7 +65,7 @@ The purpose of this repository is to acquire knowledge and document my progress 
   <details>
   <summary>Details</summary>
 
-  - `a - Introduction to OOP`  
+  - [`a - Introduction to OOP`](https://github.com/biaProjects/java-course-udemy/tree/master/2%20-%20Object-Oriented%20Programming%20-%20Part1/a%20-%20Introduction%20to%20OOP)  
     It is divided in 2 projects used as examples (a, b), exercises (c) and explanation/exercises about static members (d).
     <details>
     <summary>Details</summary>
@@ -93,7 +93,7 @@ The purpose of this repository is to acquire knowledge and document my progress 
     - `d - Static members`  
       Contains the explanation of static members and a exercise.  
     
-  - `b - Constructor-this-overloading-encapsulation`  
+  - [`b - Constructor-this-overloading-encapsulation`](https://github.com/biaProjects/java-course-udemy/tree/master/2%20-%20Object-Oriented%20Programming%20-%20Part1/b%20-%20Constructor-this-overloading-encapsulation)  
     <details>
     <summary>Details</summary>
 
@@ -111,7 +111,7 @@ The purpose of this repository is to acquire knowledge and document my progress 
     - `e - Exercise bank-account`  
       Basic simulation of a bank account, demonstrating encapsulation, use of `this`, and good constructor practices.
     
-  - `c - MemoryBehavior-arrays-lists`  
+  - [`c - MemoryBehavior-arrays-lists`](https://github.com/biaProjects/java-course-udemy/tree/master/2%20-%20Object-Oriented%20Programming%20-%20Part1/c%20-%20MemoryBehavior-arrays-lists)  
     <details>
     <summary>Details</summary>
 
