@@ -29,32 +29,32 @@ The purpose of this repository is to acquire knowledge and document my progress 
   <details>
   <summary>Details</summary>
 
-    - a1 - Outputs  
+    - [a1 - Outputs](https://github.com/biaProjects/java-course-udemy/tree/master/1%20-%20Programming%20Logic/a1%20-%20Outputs)  
       The different types of print.
-    - a2 - Input  
+    - [a2 - Input](https://github.com/biaProjects/java-course-udemy/tree/master/1%20-%20Programming%20Logic/a2%20-%20Input)  
       The Scanner.
-    - a3 - Math Functions  
+    - [a3 - Math Functions](https://github.com/biaProjects/java-course-udemy/tree/master/1%20-%20Programming%20Logic/a3%20-%20Math%20Functions)  
       Functions to square root, power and module.
-    - a4 - Logic operators & Conditional structure  
-      Logic Operators including and, or, not and conditional structure (if/else)
-    - a5 - Exercises  
+    - [a4 - Logic operators & Conditional structure  
+      Logic Operators including and, or, not and conditional structure (if/else)](https://github.com/biaProjects/java-course-udemy/tree/master/1%20-%20Programming%20Logic/a4%20-%20Logic%20operators%20%26%20Conditional%20structure)
+    - [a5 - Exercises](https://github.com/biaProjects/java-course-udemy/tree/master/1%20-%20Programming%20Logic/a5%20-%20Exercises)  
       Practicing the topics learned.
-    - a6 - Optional-structures  
+    - [a6 - Optional-structures](https://github.com/biaProjects/java-course-udemy/tree/master/1%20-%20Programming%20Logic/a6%20-%20Optional-structures)  
       Other options to conditional structure including switch case and ternary operator.
 
-    - b - Looping-Constructs Iteration-Statements  
+    - [b - Looping-Constructs Iteration-Statements](https://github.com/biaProjects/java-course-udemy/tree/master/1%20-%20Programming%20Logic/b%20-%20Looping-Constructs%20Iteration-Statements)  
       Looping structures including While, For and do-while
     
-    - c1 - Variable names  
+    - [c1 - Variable names](https://github.com/biaProjects/java-course-udemy/tree/master/1%20-%20Programming%20Logic/c1%20-%20Variable%20names)  
       Conventional names.
-    - c2 - Bitwise operators  
+    - [c2 - Bitwise operators](https://github.com/biaProjects/java-course-udemy/tree/master/1%20-%20Programming%20Logic/c2%20-%20Bitwise%20operators)  
       Logic operators to work bit to bit
-    - c3 - String methods  
+    - [c3 - String methods](https://github.com/biaProjects/java-course-udemy/tree/master/1%20-%20Programming%20Logic/c3%20-%20String%20methods)  
       Some interesting methods to use with String.
-    - c4 - Functions  
+    - [c4 - Functions](https://github.com/biaProjects/java-course-udemy/tree/master/1%20-%20Programming%20Logic/c4%20-%20Functions)  
       Function syntax.
 
-    - d - Exercise  
+    - [d - Exercise](https://github.com/biaProjects/java-course-udemy/tree/master/1%20-%20Programming%20Logic/d%20-%20Exercise)  
       An extra exercise to practice.
 
 <br>
