@@ -23,7 +23,7 @@ The purpose of this repository is to acquire knowledge and document my progress 
 
 ## Repository Structure
 
-- `1 - Programming Logic`  
+- [`1 - Programming Logic`](https://github.com/biaProjects/java-course-udemy/tree/master/1%20-%20Programming%20Logic)  
   This file contains the first part of the course. Here there are some notes, exercises and examples of basic Programming logic and algorithm in Java.  
   It's divided by: a (sections 4 and 5 of the course), b (section 6), c (section 7) and d (extra exercise).
   <details>
@@ -59,7 +59,7 @@ The purpose of this repository is to acquire knowledge and document my progress 
 
 <br>
 
-- `2 - Object-Oriented Programming - Part1`  
+- [`2 - Object-Oriented Programming - Part1`](https://github.com/biaProjects/java-course-udemy/tree/master/2%20-%20Object-Oriented%20Programming%20-%20Part1)  
   _In progress._  
   This file contains the introduction to Object-Oriented Programming (OOP) and is divided in the sections 8 (a), 9 (b), 10 (c) and 11 (d).    
   <details>

@@ -23,7 +23,7 @@ O objetivo deste repositório é adquirir conhecimento, documentar meu progresso
 
 ## Estrutura do Repositório
 
-- `1 - Programming Logic` -> (_Lógica de programação_)  
+- [`1 - Programming Logic` -> (_Lógica de programação_)](https://github.com/biaProjects/java-course-udemy/tree/master/1%20-%20Programming%20Logic)  
   Este arquivo contém a primeira parte do curso. Aqui há algumas anotações, exercícios e exemplos de lógica básica de programação e algoritmo em Java.  
   Está dividido em: a (seções 4 e 5 do curso), b (seção 6), c (seção 7) e d (exercício extra).
   <details>
@@ -59,7 +59,7 @@ O objetivo deste repositório é adquirir conhecimento, documentar meu progresso
 
 <br> 
 
-- `2 - Object-Oriented Programming - Part1` -> (_Programação Orientada a Objetos_)  
+- [`2 - Object-Oriented Programming - Part1` -> (_Programação Orientada a Objetos_)](https://github.com/biaProjects/java-course-udemy/tree/master/2%20-%20Object-Oriented%20Programming%20-%20Part1)  
   _Em andamento_  
   Esse arquivo contém a introdução à Programação Orientada a Objetos (POO) e está dividido nas seções 8 (a), 9 (b), 10 (c) e 11 (d). 
   <details>
