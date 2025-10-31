@@ -70,27 +70,27 @@ The purpose of this repository is to acquire knowledge and document my progress 
     <details>
     <summary>Details</summary>
 
-    - `a - Project 1 - Triangle`  
+    - [`a - Project 1 - Triangle`](https://github.com/biaProjects/java-course-udemy/tree/master/2%20-%20Object-Oriented%20Programming%20-%20Part1/a%20-%20Introduction%20to%20OOP/a%20-%20Project%201%20-%20Triangle)  
       A project that calculates the area of 2 triangles, and tell which area is bigger.  
       It is divided in 3 parts...
-        1. Without the use of OOP
-        2. Including OOP
-        3. Including Cohesion
+        1. [Without the use of OOP](https://github.com/biaProjects/java-course-udemy/tree/master/2%20-%20Object-Oriented%20Programming%20-%20Part1/a%20-%20Introduction%20to%20OOP/a%20-%20Project%201%20-%20Triangle/a%20-%20No%20OOP)
+        2. [Including OOP](https://github.com/biaProjects/java-course-udemy/tree/master/2%20-%20Object-Oriented%20Programming%20-%20Part1/a%20-%20Introduction%20to%20OOP/a%20-%20Project%201%20-%20Triangle/b%20-%20OOP)
+        3. [Including Cohesion](https://github.com/biaProjects/java-course-udemy/tree/master/2%20-%20Object-Oriented%20Programming%20-%20Part1/a%20-%20Introduction%20to%20OOP/a%20-%20Project%201%20-%20Triangle/c%20-%20Cohesion)
 
       This project represents the first contact with the POO concepts in Java!  
 
-    - `b - Project 2 - Stock`  
+    - [`b - Project 2 - Stock`](https://github.com/biaProjects/java-course-udemy/tree/master/2%20-%20Object-Oriented%20Programming%20-%20Part1/a%20-%20Introduction%20to%20OOP/b%20-%20Project%202%20-%20Stock)  
       Simple project simulating stock management where a product will have the data: name, price, and quantity in stock, and will include the operations of adding to and removing from stock.  
       This project also includes teaching the toString method.  
       Here are the first and second versions of this project (Initial structure with a `Product` class and basic operations. Inclusion of the `toString()` method for product information.).
 
-    - `c - Exercises`  
+    - [`c - Exercises`](https://github.com/biaProjects/java-course-udemy/tree/master/2%20-%20Object-Oriented%20Programming%20-%20Part1/a%20-%20Introduction%20to%20OOP/c%20-%20Exercises)  
       Three exercises to practice OOP.  
-      1. `Rectangle` -> calculates the area, perimeter and diagonal of a rectangle, based on its sides.
-      2. `Salary` -> calculates the salary of the employee based on a percentage of increase
-      3. `Student aproved` -> calculates if a student was approved or not based on their grades.
+      1. [`Rectangle`](https://github.com/biaProjects/java-course-udemy/tree/master/2%20-%20Object-Oriented%20Programming%20-%20Part1/a%20-%20Introduction%20to%20OOP/c%20-%20Exercises/Exercise-1%20rectangle) -> calculates the area, perimeter and diagonal of a rectangle, based on its sides.
+      2. [`Salary`](https://github.com/biaProjects/java-course-udemy/tree/master/2%20-%20Object-Oriented%20Programming%20-%20Part1/a%20-%20Introduction%20to%20OOP/c%20-%20Exercises/Exercise-2%20salary) -> calculates the salary of the employee based on a percentage of increase
+      3. [`Student aproved`](https://github.com/biaProjects/java-course-udemy/tree/master/2%20-%20Object-Oriented%20Programming%20-%20Part1/a%20-%20Introduction%20to%20OOP/c%20-%20Exercises/Exercise-3%20student%20aproved) -> calculates if a student was approved or not based on their grades.
 
-    - `d - Static members`  
+    - [`d - Static members`](https://github.com/biaProjects/java-course-udemy/tree/master/2%20-%20Object-Oriented%20Programming%20-%20Part1/a%20-%20Introduction%20to%20OOP/d%20-%20Static%20members)  
       Contains the explanation of static members and a exercise.  
     
   - [`b - Constructor-this-overloading-encapsulation`](https://github.com/biaProjects/java-course-udemy/tree/master/2%20-%20Object-Oriented%20Programming%20-%20Part1/b%20-%20Constructor-this-overloading-encapsulation)  
