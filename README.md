@@ -97,36 +97,36 @@ The purpose of this repository is to acquire knowledge and document my progress 
     <details>
     <summary>Details</summary>
 
-    - `a - Constructors`  
+    - [`a - Constructors`](https://github.com/biaProjects/java-course-udemy/tree/master/2%20-%20Object-Oriented%20Programming%20-%20Part1/b%20-%20Constructor-this-overloading-encapsulation/a%20-%20Constructors)  
       Third version of the stock project explaining the use of constructors and the word _`this`_.  
     
-    - `b - Overloading`   
+    - [`b - Overloading`](https://github.com/biaProjects/java-course-udemy/tree/master/2%20-%20Object-Oriented%20Programming%20-%20Part1/b%20-%20Constructor-this-overloading-encapsulation/b%20-%20Overloading)   
       Fourth version of the stock project to explain overloading.  
 
-    - `c - Extra_notes.md`  
+    - [`c - Extra_notes.md`](https://github.com/biaProjects/java-course-udemy/blob/master/2%20-%20Object-Oriented%20Programming%20-%20Part1/b%20-%20Constructor-this-overloading-encapsulation/c%20-%20Extra_Notes.md)  
 
-    - `d - Encapsulation`  
+    - [`d - Encapsulation`](https://github.com/biaProjects/java-course-udemy/tree/master/2%20-%20Object-Oriented%20Programming%20-%20Part1/b%20-%20Constructor-this-overloading-encapsulation/d%20-%20Encapsulation)  
       Fifth version of stock project including encapsulation and access modifiers.  
     
-    - `e - Exercise bank-account`  
+    - [`e - Exercise bank-account`](https://github.com/biaProjects/java-course-udemy/tree/master/2%20-%20Object-Oriented%20Programming%20-%20Part1/b%20-%20Constructor-this-overloading-encapsulation/e%20-%20Exercise%20bank-account)  
       Basic simulation of a bank account, demonstrating encapsulation, use of `this`, and good constructor practices.
     
   - [`c - MemoryBehavior-arrays-lists`](https://github.com/biaProjects/java-course-udemy/tree/master/2%20-%20Object-Oriented%20Programming%20-%20Part1/c%20-%20MemoryBehavior-arrays-lists)  
     <details>
     <summary>Details</summary>
 
-    - `a - Reference-and-Value-Types - Memory-deallocation`  
-    - `b - Vectors`  
-      In `Project` we has 2 examples. The first register the height of X people and return the average. The second register X products and return the average price of them.  
-      In `Exercises` there is:   
-        - Exercise 1: It receives X numbers and return the negatives, the sum and average.
-        - Exercise 2: It receives the name, age and height of X people and returns the average height and percentage of younger than 16 years old.
-        - Exercise 3: It receives X numbers and return the heighest and the evens.
-        - Exercise 4: It receives the values of 2 vectors (A and B) and, based on them, calculates the resultant vector.  
-        - Exercise 5: It's a simulation where a hotel has 10 room (from 0 to 9) and they will be rented to X people. The program receives the name, email and room the person will rent and in the end, displays the rooms that are occupied.
-    - `c - For-each`  
-    - `d - Lists`  
-      - `Explanations`  
+    - [`a - Reference-and-Value-Types - Memory-deallocation`](https://github.com/biaProjects/java-course-udemy/tree/master/2%20-%20Object-Oriented%20Programming%20-%20Part1/c%20-%20MemoryBehavior-arrays-lists/a%20-%20Reference-and-Value-Types%20-%20Memory-deallocation)  
+    - [`b - Vectors`](https://github.com/biaProjects/java-course-udemy/tree/master/2%20-%20Object-Oriented%20Programming%20-%20Part1/c%20-%20MemoryBehavior-arrays-lists/b%20-%20Vectors)  
+      In [`Project`](https://github.com/biaProjects/java-course-udemy/tree/master/2%20-%20Object-Oriented%20Programming%20-%20Part1/c%20-%20MemoryBehavior-arrays-lists/b%20-%20Vectors/Project) we has 2 examples. The first register the height of X people and return the average. The second register X products and return the average price of them.  
+      In [`Exercises`](https://github.com/biaProjects/java-course-udemy/tree/master/2%20-%20Object-Oriented%20Programming%20-%20Part1/c%20-%20MemoryBehavior-arrays-lists/b%20-%20Vectors/Exercises) there is:   
+        - [Exercise 1](https://github.com/biaProjects/java-course-udemy/tree/master/2%20-%20Object-Oriented%20Programming%20-%20Part1/c%20-%20MemoryBehavior-arrays-lists/b%20-%20Vectors/Exercises/1%20-%20Negative-sum-average): It receives X numbers and return the negatives, the sum and average.
+        - [Exercise 2](https://github.com/biaProjects/java-course-udemy/tree/master/2%20-%20Object-Oriented%20Programming%20-%20Part1/c%20-%20MemoryBehavior-arrays-lists/b%20-%20Vectors/Exercises/2%20-%20Height-age): It receives the name, age and height of X people and returns the average height and percentage of younger than 16 years old.
+        - [Exercise 3](https://github.com/biaProjects/java-course-udemy/tree/master/2%20-%20Object-Oriented%20Programming%20-%20Part1/c%20-%20MemoryBehavior-arrays-lists/b%20-%20Vectors/Exercises/3%20-%20Highest-and-even-numbers): It receives X numbers and return the heighest and the evens.
+        - [Exercise 4](https://github.com/biaProjects/java-course-udemy/tree/master/2%20-%20Object-Oriented%20Programming%20-%20Part1/c%20-%20MemoryBehavior-arrays-lists/b%20-%20Vectors/Exercises/5%20-%20Extra-hotel): It receives the values of 2 vectors (A and B) and, based on them, calculates the resultant vector.  
+        - [Exercise 5]: It's a simulation where a hotel has 10 room (from 0 to 9) and they will be rented to X people. The program receives the name, email and room the person will rent and in the end, displays the rooms that are occupied.
+    - [`c - For-each`](https://github.com/biaProjects/java-course-udemy/tree/master/2%20-%20Object-Oriented%20Programming%20-%20Part1/c%20-%20MemoryBehavior-arrays-lists/c%20-%20For-each)  
+    - [`d - Lists`](https://github.com/biaProjects/java-course-udemy/tree/master/2%20-%20Object-Oriented%20Programming%20-%20Part1/c%20-%20MemoryBehavior-arrays-lists/d%20-%20Lists/Explanations)  
+      - [`Explanations`](https://github.com/biaProjects/java-course-udemy/blob/master/2%20-%20Object-Oriented%20Programming%20-%20Part1/c%20-%20MemoryBehavior-arrays-lists/d%20-%20Lists/Explanations/Explanation.md)  
         Contains the explanations and example about lists.  
 
 <p align="right">
