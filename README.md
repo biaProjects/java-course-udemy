@@ -73,9 +73,9 @@ The purpose of this repository is to acquire knowledge and document my progress 
     - [`a - Project 1 - Triangle`](https://github.com/biaProjects/java-course-udemy/tree/master/2%20-%20Object-Oriented%20Programming%20-%20Part1/a%20-%20Introduction%20to%20OOP/a%20-%20Project%201%20-%20Triangle)  
       A project that calculates the area of 2 triangles, and tell which area is bigger.  
       It is divided in 3 parts...
-        1. [Without the use of OOP](https://github.com/biaProjects/java-course-udemy/tree/master/2%20-%20Object-Oriented%20Programming%20-%20Part1/a%20-%20Introduction%20to%20OOP/a%20-%20Project%201%20-%20Triangle/a%20-%20No%20OOP)
-        2. [Including OOP](https://github.com/biaProjects/java-course-udemy/tree/master/2%20-%20Object-Oriented%20Programming%20-%20Part1/a%20-%20Introduction%20to%20OOP/a%20-%20Project%201%20-%20Triangle/b%20-%20OOP)
-        3. [Including Cohesion](https://github.com/biaProjects/java-course-udemy/tree/master/2%20-%20Object-Oriented%20Programming%20-%20Part1/a%20-%20Introduction%20to%20OOP/a%20-%20Project%201%20-%20Triangle/c%20-%20Cohesion)
+        1. Without the use of OOP
+        2. Including OOP
+        3. Including Cohesion
 
       This project represents the first contact with the POO concepts in Java!  
 
@@ -123,10 +123,10 @@ The purpose of this repository is to acquire knowledge and document my progress 
         - [Exercise 2](https://github.com/biaProjects/java-course-udemy/tree/master/2%20-%20Object-Oriented%20Programming%20-%20Part1/c%20-%20MemoryBehavior-arrays-lists/b%20-%20Vectors/Exercises/2%20-%20Height-age): It receives the name, age and height of X people and returns the average height and percentage of younger than 16 years old.
         - [Exercise 3](https://github.com/biaProjects/java-course-udemy/tree/master/2%20-%20Object-Oriented%20Programming%20-%20Part1/c%20-%20MemoryBehavior-arrays-lists/b%20-%20Vectors/Exercises/3%20-%20Highest-and-even-numbers): It receives X numbers and return the heighest and the evens.
         - [Exercise 4](https://github.com/biaProjects/java-course-udemy/tree/master/2%20-%20Object-Oriented%20Programming%20-%20Part1/c%20-%20MemoryBehavior-arrays-lists/b%20-%20Vectors/Exercises/5%20-%20Extra-hotel): It receives the values of 2 vectors (A and B) and, based on them, calculates the resultant vector.  
-        - [Exercise 5]: It's a simulation where a hotel has 10 room (from 0 to 9) and they will be rented to X people. The program receives the name, email and room the person will rent and in the end, displays the rooms that are occupied.
+        - [Exercise 5](https://github.com/biaProjects/java-course-udemy/tree/master/2%20-%20Object-Oriented%20Programming%20-%20Part1/c%20-%20MemoryBehavior-arrays-lists/b%20-%20Vectors/Exercises/5%20-%20Extra-hotel): It's a simulation where a hotel has 10 room (from 0 to 9) and they will be rented to X people. The program receives the name, email and room the person will rent and in the end, displays the rooms that are occupied.
     - [`c - For-each`](https://github.com/biaProjects/java-course-udemy/tree/master/2%20-%20Object-Oriented%20Programming%20-%20Part1/c%20-%20MemoryBehavior-arrays-lists/c%20-%20For-each)  
     - [`d - Lists`](https://github.com/biaProjects/java-course-udemy/tree/master/2%20-%20Object-Oriented%20Programming%20-%20Part1/c%20-%20MemoryBehavior-arrays-lists/d%20-%20Lists/Explanations)  
-      - [`Explanations`](https://github.com/biaProjects/java-course-udemy/blob/master/2%20-%20Object-Oriented%20Programming%20-%20Part1/c%20-%20MemoryBehavior-arrays-lists/d%20-%20Lists/Explanations/Explanation.md)  
+      - `Explanations`   
         Contains the explanations and example about lists.  
 
 <p align="right">
