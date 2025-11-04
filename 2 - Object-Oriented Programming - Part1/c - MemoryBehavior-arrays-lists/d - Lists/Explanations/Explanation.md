@@ -77,5 +77,56 @@ Agora sim! A lista está pronta para ser utilizada.
 
 --- 
 
-Quer ver um exemplo?  
+Quer ver um exemplo?   
 [Clique aqui!](https://github.com/biaProjects/java-course-udemy/blob/master/2%20-%20Object-Oriented%20Programming%20-%20Part1/c%20-%20MemoryBehavior-arrays-lists/d%20-%20Lists/Explanations/Example/src/program/Main.java)
+
+--- 
+
+# Exercício
+Vamos fazer um programa para ler um número inteiro N e depois os dados (id, nome e salário) de N funcionários. Não deve haver repetição de id.   
+Em seguida, efetuar o aumento de X por cento no salário de um determinado funcionário. Para isso, o programa deve ler um id e o valor de X.  
+Se o id informado não existir, mostre uma mensagem e aborte a operação.
+Ao final, mostrar a listagem atualizada dos funcionários, conforme exemplos a seguir.  
+Lembre de aplicar a técnnica de encapsulamento para não permitir que o salário possa ser mudado livremente. Um salário só pode ser aumentado com base em uma operação de aumento por poncentagem informada.  
+
+Exemplos:  
+How many employees will be registered?  *2*  
+
+Employee #1:  
+Id: *333*  
+Name: *Maria Brown*  
+Salary: *4000.00*  
+
+Employee #2:  
+Id: *536*  
+Name: *Maria Brown*
+
+Enter the employee id that will have salary increase : *536* 
+Enter the percentage: *10.0*
+
+List of employees: 
+333, Maria Brown, 4000.00 
+536, Alex Grey, 3300.00 
+
+---
+
+EXEMPLO 2
+
+How many employees will be registered? *2*
+
+Emplyoee #1: 
+Id: ==333==
+Name: ==Maria Brown==
+Salary: ==4000.00==
+
+Emplyoee #2: 
+Id: ==536== 
+Name: ==Alex Grey==
+Salary: ==3000.00==
+
+Enter the employee id that will have salary increase: ==776==
+This id does not exist! 
+
+List of employees: 
+333, Maria Brown, 4000.00 
+536, Alex Grey, 3000.00
