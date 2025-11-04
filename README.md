@@ -127,7 +127,7 @@ The purpose of this repository is to acquire knowledge and document my progress 
     - [`c - For-each`](https://github.com/biaProjects/java-course-udemy/tree/master/2%20-%20Object-Oriented%20Programming%20-%20Part1/c%20-%20MemoryBehavior-arrays-lists/c%20-%20For-each)  
     - [`d - Lists`](https://github.com/biaProjects/java-course-udemy/tree/master/2%20-%20Object-Oriented%20Programming%20-%20Part1/c%20-%20MemoryBehavior-arrays-lists/d%20-%20Lists/Explanations)  
       - `Explanations`   
-        Contains the explanations and example about lists.  
+        Contains the explanations, example and exercise about lists.  
 
 <p align="right">
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Duke_%28Java_mascot%29_waving.svg" width="60"/>
