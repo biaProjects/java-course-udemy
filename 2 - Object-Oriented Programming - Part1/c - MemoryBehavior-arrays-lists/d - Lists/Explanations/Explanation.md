@@ -77,10 +77,16 @@ Agora sim! A lista está pronta para ser utilizada.
 
 --- 
 
+<br>
+
 Quer ver um exemplo?   
 [Clique aqui!](https://github.com/biaProjects/java-course-udemy/blob/master/2%20-%20Object-Oriented%20Programming%20-%20Part1/c%20-%20MemoryBehavior-arrays-lists/d%20-%20Lists/Explanations/Example/src/program/Main.java)
 
+<br>
+
 --- 
+
+<br> 
 
 # Exercício
 Vamos fazer um programa para ler um número inteiro N e depois os dados (id, nome e salário) de N funcionários. Não deve haver repetição de id.   
@@ -130,3 +136,5 @@ This id does not exist!
 List of employees: 
 333, Maria Brown, 4000.00 
 536, Alex Grey, 3000.00
+
+[Veja o código aqui!](https://github.com/biaProjects/java-course-udemy/tree/master/2%20-%20Object-Oriented%20Programming%20-%20Part1/c%20-%20MemoryBehavior-arrays-lists/d%20-%20Lists/Exercise)
