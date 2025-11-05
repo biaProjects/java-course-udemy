@@ -126,9 +126,9 @@ The purpose of this repository is to acquire knowledge and document my progress 
         - [Exercise 5](https://github.com/biaProjects/java-course-udemy/tree/master/2%20-%20Object-Oriented%20Programming%20-%20Part1/c%20-%20MemoryBehavior-arrays-lists/b%20-%20Vectors/Exercises/5%20-%20Extra-hotel): It's a simulation where a hotel has 10 room (from 0 to 9) and they will be rented to X people. The program receives the name, email and room the person will rent and in the end, displays the rooms that are occupied.
     - [`c - For-each`](https://github.com/biaProjects/java-course-udemy/tree/master/2%20-%20Object-Oriented%20Programming%20-%20Part1/c%20-%20MemoryBehavior-arrays-lists/c%20-%20For-each)  
     - [`d - Lists`](https://github.com/biaProjects/java-course-udemy/tree/master/2%20-%20Object-Oriented%20Programming%20-%20Part1/c%20-%20MemoryBehavior-arrays-lists/d%20-%20Lists/Explanations)  
-      - `Explanations`   
-        Contains the explanations, example and exercise about lists.  
-
+      - `Exercise`  
+      - `Explanations`  
+      
 <p align="right">
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Duke_%28Java_mascot%29_waving.svg" width="60"/>
 </p>
